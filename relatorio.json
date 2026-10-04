@@ -1,7 +1,7 @@
 {
   "status": "updated",
   "discovered": 198,
-  "valid": 194,
+  "valid": 193,
   "published": 199,
   "sources": [
     {
@@ -25,12 +25,12 @@
     {
       "source": "VidKS",
       "pages_scanned": 220,
-      "channel_candidates": 352,
+      "channel_candidates": 353,
       "records": 0
     },
     {
       "source": "DM Play",
-      "pages_scanned": 7,
+      "pages_scanned": 8,
       "channel_candidates": 0,
       "records": 0
     },
