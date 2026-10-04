@@ -12,8 +12,8 @@
     "category": "TV",
     "source": "AM Canais",
     "page": "https://www.amcanais.com.br/tv-polishop",
-    "stream": "https://www.youtube.com/watch?v=aXIjK2KZXxQ",
-    "stream_type": "youtube"
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
   },
   {
     "name": "tv-brasil | AM Canais",
@@ -318,5 +318,1277 @@
     "page": "https://multiradio.com.br/webtv/tv-nova-geracao",
     "stream": "https://stmv2.voxtvhd.com.br/jose6835/jose6835/playlist.m3u8",
     "stream_type": "hls/mpd"
+  },
+  {
+    "name": "AM Canais - TV Online Ao Vivo | tv gratis",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Sbt | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/sbt-tv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "caze-tv | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/cazetv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBT NEWS | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/sbt-news",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "A critica | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/acritica",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV GeekDot | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/geekdot",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Notícias | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/generos/not%C3%ADcias",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Institucionais Públicos | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/generos/institucionais-p%C3%BAblicos",
+    "stream": "https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Esportes | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/generos/esportes",
+    "stream": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Gazin | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-gazin",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Tudo | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-tudo",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "1001 Noites | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/1001-noites",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Mega TV | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/mega-tv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "BR8TV | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/br8tv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Record News | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/record-news",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CNN | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/cnn",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "BAND NEWS | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/band-news",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "JOVEM PAN NEWS | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/jovempan-news",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "tv-encontro-das-aguas | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-encontro-das-aguas",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Band RS | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/band-rs",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tvt News | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tvt-news",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "playTV | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/playtv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Record Tv | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/recordtv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Vivax Tv | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/vivax-tv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Meio Norte | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/meio-norte",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Tv | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/redetv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Ype Tv | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/ype-tv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Vida Mais | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/rede-vida-mais",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Vida de Educação | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/rede-vida-educacao",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Futura | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/futura",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Canal Educação | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/canal-educacao",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "cultura | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/cultura",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Templo | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-templo",
+    "stream": "https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Imaculada | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-imaculada",
+    "stream": "https://video08.logicahost.com.br/redeimaculada/redeimaculada/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Horizonte | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-horizonte",
+    "stream": "https://tvhorizonte.brasilstream.com.br/hls/tvhorizonte/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Seculo 21 | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-seculo-21",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "nativa | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/nativa-tv",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "amazonsat | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/amazonsat",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "tv-futuro | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-futuro",
+    "stream": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TNT Sports Brasil | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tnt-sports",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "n-sports | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/n-sports",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Loading | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-loading",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBT News ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sbtnews",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "N Sports ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/n-sports",
+    "stream": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Jovem Pan News ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/jovem-pan-news",
+    "stream": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RS Sports News ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rs-sports-news",
+    "stream": "https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Runtime Ação ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/runtime-acao",
+    "stream": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Sony One Cinema ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sony-one-cinema",
+    "stream": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "KE TV Filmes Online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/ke-tv-filmes",
+    "stream": "https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Clássicos ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-classicos",
+    "stream": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w103253687.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Mr Bean ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/mr-bean",
+    "stream": "https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/1080p-cc-pt/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Otaku Sign TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/animetv",
+    "stream": "https://stmv1.srvif.com/anime/anime/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Rio Preto ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-rio-preto-sp",
+    "stream": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w32033332.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SPARK TV LUZ E AMOR ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/spark-tv-luz-e-amor",
+    "stream": "https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Fala Litoral ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/fala-litoral",
+    "stream": "https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ISTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/istv",
+    "stream": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w358428910.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Mais Pet ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-mais-pet",
+    "stream": "https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Conquista Afiliada Rede Record ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-conquista",
+    "stream": "https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MASPER TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/masper-tv",
+    "stream": "https://tv02.zas.media:1936/masper/masper/chunklist_w1523289940.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Capital ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-capital",
+    "stream": "https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Nature Time Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/nature-time-brasil",
+    "stream": "https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Atividade - A TV da Bahia ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-atividade",
+    "stream": "https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Master Chef Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/master-chef-brasil",
+    "stream": "https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00627-banijayfast-masterchefbrazil-runtimelatam/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f59647c0dd4ebdd4d20883448e7fa7099c93a68ace42d381c77efc02b036510f7a2fc98528cbfbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effad13a9b7c05109ca8a6054b0f3f8d3f8d662d6d5d57dc5c82626e/145/1920x1080_6046040/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tastemade Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tastemade-brasil",
+    "stream": "https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/cb543d167c6c618784cb3760cef342a0f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7352db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a1af1c56953145f596139c874eea81870e83448e7fa7099c93a68ace18808f957efb55b5635f0e2424c8827892fbb5d7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d1c52c03f0204bcef7f8a228e0d5a19ff73a71c90e6a7e5bbc011eaac66e1174c86298122a2d9cf28173eea645c7e673d5e62e7559b158362bb90a43b810f4f8fc9ba8aec6bf9d083f4209079454a19b22e828d24798cf062d5377e3ccf048e989c3573c6e4ec9d5108453538ed28587d019288a4e2f1ab930970b5e2cfb3d622ab176b9826a38c0662b952531fe6f308269f5ac63a0f48cab556df596ec6acb42c3f94adeff09ac2d1b5c01b8fd651f66446fdfe36342612c930bb49d9aaf274933edf1ccecc91c6d546e59015acbc7e377d4df957953468f03683006657dfc33df67db0f5e136e984ea1cb2740c5577163b6dd703733419fcba38e94d9cc50c716fec6fe2b20285665a9496b036ad4b3cd14bd0f42707e52971c262499024949fe9ad9effbd5362efded0ff2d0725dcdb6b302ca36076251b4bdd9abcb96/58/1920x1080_6046040/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Bem Melhor ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/bem-melhor",
+    "stream": "https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w1111299609.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "WILDEARTH ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/wildearth",
+    "stream": "https://wildearth-ono.amagi.tv/ts-us-w2-n1/playlist/amg01290-wildearth-oando/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f38b45c1821fee89d346cf4a8e25ec159cc4f196da468a838c36f801e1315f0b242fcad329a12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9fa8b179e1b65e0ed0cc6051d40a5b89d00e656adefc04e928be/4/1920x1080_4716800/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV AGRO É NOSSO ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-agro-e-nosso",
+    "stream": "https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w149846283.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Pantanal MS ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-pantanal-ms",
+    "stream": "https://59d39900ebfb8.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1733080621.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Aberta ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-aberta",
+    "stream": "https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w1246494359.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "7 TVs ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/7-tvs",
+    "stream": "https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TVídeoNews ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvideonews",
+    "stream": "https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1659802033.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV História ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-historia",
+    "stream": "https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w770728565.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RedeTV! ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/redetv",
+    "stream": "https://live.eu-north-1b.cf.dmcdn.net/sec2(vORAsmXszunUoojzU0z4cECziPGtFc4oCrp5Z5XLwrG5G9MTd-GP_rmx-N3rzIpx5ycdK8-aluI5LjADh1sx3MZkpM3HgUOSKi_XoYhDRiHbmK_dhAr6BKWEvRl_QxSr)/dm/3/x8xps0s/d/live-1080.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Pampa ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-pampa",
+    "stream": "https://video04.logicahost.com.br/tvpampa/tvpampa/chunklist_w107694160.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Demais TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/demais-tv",
+    "stream": "https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Canal 25 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/canal-25",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Araruna ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/araruna",
+    "stream": "https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w2045664646.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ABC Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/abc-brasil",
+    "stream": "https://servidor2.vcrmedia.com.br/hls/canalabc_src.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CHANNEL 1 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/channel-1",
+    "stream": "https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w2115428726.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TVI ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvi",
+    "stream": "https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=381724625&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TVI Reality Big Brother - Big Brother Verão - Ligação à Casa ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvi-reality",
+    "stream": "https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=381725743&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TVI Ficção ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvi-ficcao",
+    "stream": "https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=381726790&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Sertão TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sertao-tv",
+    "stream": "https://video11.logicahost.com.br/sertaotv/sertaotv/chunklist_w265415093.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Olho D",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-olho-d-agua",
+    "stream": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/chunklist_w1482368423.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede MultTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-multtv",
+    "stream": "https://stmv7.samcast.com.br/redemulttv/redemulttv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV MAX ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-max",
+    "stream": "https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w427239309.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Goitacá ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-goitaca",
+    "stream": "https://video01.brascast.com/david7639/david7639/playlist.m3u8?hls_ctx=j012040t",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Clube RN ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-clube-rn",
+    "stream": "https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TCM- TV Cabo Mossoró ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tcm-tv-cabo-mossoro",
+    "stream": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RS Play TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rs-play-tv",
+    "stream": "https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w42821153.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Gaúcha ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-gaucha",
+    "stream": "https://stmv3.voxtvhd.com.br/tvgaucha/tvgaucha/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Hardcore Pawn ao vivo — negociações, conflitos e loja de penhores ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/hardcore-pawn",
+    "stream": "https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "UMA TV ao vivo — entretenimento, esporte e informação ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/uma-tv-ao-vivo",
+    "stream": "https://umatv.nuvemplay.live/hls/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TVI Internacional ao vivo — Portugal para o mundo ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvi-internacional-ao-vivo-portugal-para-o-mundo",
+    "stream": "https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=381728802&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Maná Moçambique ao vivo — evangelho e programação cristã ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-mana-mocambique",
+    "stream": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w1700686021_b30048000_sleng.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Gramado Net ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-gramado-net",
+    "stream": "https://isaocorp.cloudecast.com/tvgramado/tracks-v1/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "POA Streaming ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/poa-streaming",
+    "stream": "https://video01.logicahost.com.br/poastreaming/poastreaming/chunklist_w730362173.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "BS TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/bs-tv",
+    "stream": "https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w614911970.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TVitapê ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvitape",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede UTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-utv",
+    "stream": "https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/chunklist_w443950907.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Brazi TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/brazi-tv",
+    "stream": "https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Conexão ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-conexao",
+    "stream": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w146401506.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SIC Replay ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sic-replay",
+    "stream": "https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9a7dce4ff2dcebac2e&bpkio_sessionid=10d1b138d241-bd75e035-db88-4399-82ce-8d70abe8d533&category=all&mm_sp",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV MONTANHA ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-montanha",
+    "stream": "https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "VoxTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/voxtv",
+    "stream": "https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV TVR ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-tvr",
+    "stream": "https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV HORTOLÂNDIA ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-hortolandia",
+    "stream": "https://s1.tvr.ovh/video83070/video83070/chunklist_w608215173.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Alpha ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-alpha",
+    "stream": "https://video05.logicahost.com.br/tvalpha/tvalpha/chunklist_w233935857.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Yeeaah ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/yeeaah",
+    "stream": "https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV MARCHETI ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-marcheti",
+    "stream": "https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv cidade verde Cuiabá ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-cidade-verde-cuiaba",
+    "stream": "https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Pan TV MT ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/pan-tv-mt",
+    "stream": "https://stmv8.samcast.com.br/carlos6664/carlos6664/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Rio Madeira ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-rio-madeira",
+    "stream": "https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w248715909.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Já Viu TV Play ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/ja-viu-tv-play",
+    "stream": "https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Itapetinga (ES) ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-itapetinga-es",
+    "stream": "https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV da Cidade Joinville – SC ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-da-cidade-joinville-sc",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Brusque ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-brusque",
+    "stream": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w2106695691.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Reisen Clube TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/reisen-clube-tv",
+    "stream": "https://pop.uniquetv.com.br/reisenclubetv/tracks-v1a1/mono.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Porto Canal ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/porto-canal",
+    "stream": "https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/chunklist_b1996000_slen.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ADBTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/adbtv",
+    "stream": "https://live.wayone.cloud/adbtv/adbtv/chunklist_w232615520_vo.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Desimpedidos ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/desimpedidos",
+    "stream": "https://ogc-desi-tcl-roku-syndication.otteravision.com/ogc/desi/desi_720p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RS Sports News 2 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rs-sports-news-2",
+    "stream": "https://video07.logicahost.com.br/rssports02/rssports02/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RS Sports News 3 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rs-sports-news-3",
+    "stream": "https://video07.logicahost.com.br/rssports03/rssports03/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RS Sports News 4 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rs-sports-news-4",
+    "stream": "https://video07.logicahost.com.br/rssports04/rssports04/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RS Sports News 5 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rs-sports-news-5",
+    "stream": "https://video07.logicahost.com.br/rsnews01/rsnews01/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CazéTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/caze-tv",
+    "stream": "https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Unique Sports 1 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/unique-sports-1",
+    "stream": "https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Red Bull TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/red-bull-tv",
+    "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SFT Combat ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sft-combat",
+    "stream": "https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Drive Channel TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/drive-channel-tv",
+    "stream": "https://stmv1.voxplayer.com.br/drivechannel/drivechannel/chunklist_w330635911.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "FUEL TV Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/fuel-tv-brasil",
+    "stream": "https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/ts-us-w2-n2/playlist/amg01074-fueltv-fueltvbr-samsungbr/cb543e1e7b6c608d84c83f67cef044a1f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7353db80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad969a0af1c56953145f5964bccdc18b386d45b834a8f76a3099c93a68ace41d186987eab55e7665a5c732d98d129c6fbbad7b0eb01b321c2493c7c77d4e1f5dc5c3d9c4e4f2e8095a98c448fdd4a1447fb0d04b4158c47c411876eb800a4e034d0c5411af1204bcde34e6035b5e9a885e87747d5f7271088af114fa98c7d4b46c62de8233e349fb7ac7ee19342c6e673d7f3017749888fa94296bbd44fc971195ef19d9fd33877336f6e01108f5ea3d55eda26e248a9db1f2e66ea25c78778cb9cd0523c6300d3ce0e945b2cb0d58f8cc81d7be4545b0bb82e8900455bc53a3a28be6de1cc6825c9071a953938cc5d37ab4be8f779a6f095b6507bfdf5ef76d243a3f506dbfd07e94a395a09bcbb6c7c4d5e72ddeb295c65288d15aa8384b1373a01eaf6dff78f066b507744044caee6e03fcadb91674d58911d7612017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce85534776595dabe9288d0de36dc52daccef363c345f77c75d202269d6f6c019ca31457a754a934d0367b8145156e585c386c8d73e2efdb55fd0d6728159fcb7b246731bfc8022892872a346/170/1920x1080_4716800/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Canal GOAT ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/canal-goat",
+    "stream": "https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Unique Sports 2 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/unique-sports-2",
+    "stream": "https://pop.uniquetv.com.br/uniquesports2/tracks-v1a1/mono.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Unique Sports 3 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/unique-sports-3",
+    "stream": "https://pop.uniquetv.com.br/uniquesports3/tracks-v1a1/mono.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MAVTV BRASIL ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/mavtv-brasil",
+    "stream": "https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RACER BRASIL ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/racer-brasil",
+    "stream": "https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Radio Esportes Brasília ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/radio-esportes-brasilia",
+    "stream": "https://a.cdni.live/radioesporte/radioesporte/chunklist_w1141159919.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Real Madrid TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/real-madrid-tv",
+    "stream": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Barça TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/barca-tv",
+    "stream": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb543e1e7b6c678e9dd43662cef340a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7356db80148b61299bce8c37683f03409a5e5afba358b1ebe35a4cd13ff3b71d55c77a46e19f43c8821da689865b9a5ed370f847ccc6f588d613d78ff3de986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a4ad3e03cfde542fc5809caa8a16ca5bfb5de504536e4c0542104a1e8b085b9415b2cba49c39bbf404ce39f277948895dd9372737da9d9953eca664a46e5d603fb84a98b97192bb7f30a4c810c73bbd28cfd5fd9b3c0d7d620b3db65cb79662e1e4bc12a7e31c3b554148acd5008ad69916076b41828f49c753358d9bdad3915e608a571254be34821b1d3a987d2c5df53df59f0b698b0d03917a68a80f7bd314bcf007dd93f6c94a7bb9d7cc47bf48eab601ddbf428a652e560fb6bd7d0a11022d9ebe285d704ac243e5c1c3ae225a57a2a49b8cb5395230301956039cf1a721cbfca7072956900368300e537df023d966d80c4c7a5eea16c1a30471c54b611aefa93b524d7fd4af958494ddde4ba575b19aaed94ef9fcfe0855669f0ae627872e54985d0c6be4daa6a4/53/1920x1080_5129264/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Super ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/redesuper",
+    "stream": "https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w254808281.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Rede Gospel ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/redegospel",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "IMPD TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/impdtv",
+    "stream": "https://68882bdaf156a.streamlock.net/impd/ngrp:impd_all/chunklist_w766912441_b2691072.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Feliz ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvfeliz",
+    "stream": "https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1091223975.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Plenitude ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/redeplenitude",
+    "stream": "https://strv.painelvox.top/plenitude/plenitude/chunklist_w1853401077.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Templo de Salomão ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvtemplosalomao",
+    "stream": "https://644398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/chunklist_f10cf743-f8d2-4b80-a665-d0dd319ef176.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Gospel Movie Television ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvadoradorgospel",
+    "stream": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Chroma TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/chroma-tv",
+    "stream": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Avivando Nações ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-avivando-nacoes",
+    "stream": "https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/chunklist_w2092081966.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Adorador Gospel ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-adorador-gospel",
+    "stream": "https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8?hls_ctx=1478a427",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RIT TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/a-tv-que-faz-a-diferenca",
+    "stream": "https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Evangeliza ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/associacao-evangelizar-e-preciso",
+    "stream": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Maná Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-mana-brasil",
+    "stream": "https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w1788032998_b3048000_sleng.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Ponto de Encontro ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-ponto-de-encontro",
+    "stream": "https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Apóstolos ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-apostolos",
+    "stream": "https://video04.logicahost.com.br/tvapostolos/tvapostolos/chunklist_w1072270158.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ALMA GOSPEL TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/alma-gospel-tv",
+    "stream": "https://almagospel.nuvemplay.live/hls/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TOP MIX TV GOSPEL ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/top-mix-tv-gospel",
+    "stream": "https://video01.logicahost.com.br/topmixtvgospel01/topmixtvgospel01/chunklist_w547380142.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV GOSPEL EXODUS DE SALVADOR ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-gospel-exodus-de-salvador",
+    "stream": "https://stmv7.samcast.com.br/tvexodus/tvexodus/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Aparecida ao vivo: onde assistir e programação · TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/canal/tv-aparecida",
+    "stream": "https://www.youtube.com/watch?v=4CAmwaFJo6k",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Canção Nova ao vivo: onde assistir e programação · TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/canal/cancao-nova",
+    "stream": "https://www.youtube.com/watch?v=nv6UjvAcMj0",
+    "stream_type": "youtube"
   }
 ]

@@ -1,6 +1,68 @@
 {
   "status": "updated",
-  "discovered": 41,
-  "valid": 40,
-  "published": 40
+  "discovered": 198,
+  "valid": 194,
+  "published": 199,
+  "sources": [
+    {
+      "source": "AM Canais",
+      "pages_scanned": 91,
+      "channel_candidates": 88,
+      "records": 49
+    },
+    {
+      "source": "KE TV",
+      "pages_scanned": 22,
+      "channel_candidates": 500,
+      "records": 131
+    },
+    {
+      "source": "CXTV",
+      "pages_scanned": 260,
+      "channel_candidates": 39,
+      "records": 0
+    },
+    {
+      "source": "VidKS",
+      "pages_scanned": 220,
+      "channel_candidates": 352,
+      "records": 0
+    },
+    {
+      "source": "DM Play",
+      "pages_scanned": 7,
+      "channel_candidates": 0,
+      "records": 0
+    },
+    {
+      "source": "TVAOVIVO.VIP",
+      "pages_scanned": 150,
+      "channel_candidates": 140,
+      "records": 2
+    },
+    {
+      "source": "FotoDicas TV",
+      "pages_scanned": 34,
+      "channel_candidates": 33,
+      "records": 0
+    },
+    {
+      "source": "IPGO Web TV",
+      "pages_scanned": 1,
+      "channel_candidates": 0,
+      "records": 0
+    },
+    {
+      "source": "MultiRádio",
+      "pages_scanned": 31,
+      "channel_candidates": 30,
+      "records": 16
+    },
+    {
+      "source": "Televisão.TV",
+      "pages_scanned": 260,
+      "channel_candidates": 391,
+      "records": 0
+    }
+  ]
 }
