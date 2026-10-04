@@ -1,7 +1,7 @@
 [
-  "tests/test_core.py::test_bad_name_is_rejected",
-  "tests/test_core.py::test_canonical",
-  "tests/test_core.py::test_channel_name_is_kept",
-  "tests/test_core.py::test_m3u_writer",
-  "tests/test_core.py::test_no_src_dependency"
+  "tests/test_v4.py::test_bad_names",
+  "tests/test_v4.py::test_no_src",
+  "tests/test_v4.py::test_preserve",
+  "tests/test_v4.py::test_streams",
+  "tests/test_v4.py::test_youtube"
 ]
