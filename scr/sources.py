@@ -1,69 +1,57 @@
-import json
-import logging
-from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
+from .extract import direct_streams, youtube_urls, page_name
 
-import requests
+KEYWORDS=("canal","tv","live","ao-vivo","assistir","watch","stream","play")
 
-from .extract import extract_links, extract_streams, title_from_page
-from .normalize import clean_text, valid_name, infer_category
+def discover_from_html(html, url, source, allow_youtube=True):
+    records=[]
+    name=page_name(html,url)
+    streams=direct_streams(html,url)
+    if streams:
+        records.append({"name":name,"category":source.get("category","TV"),
+                        "source":source["name"],"page":url,
+                        "stream":streams[0],"stream_type":"hls/mpd"})
+    elif allow_youtube:
+        yt=youtube_urls(html,url)
+        if yt:
+            records.append({"name":name,"category":source.get("category","TV"),
+                            "source":source["name"],"page":url,
+                            "stream":yt[0],"stream_type":"youtube"})
+    return records
 
-LOG = logging.getLogger(__name__)
+def should_follow(url, text=""):
+    s=(url+" "+text).casefold()
+    return any(k in s for k in KEYWORDS)
 
-class SourceCrawler:
-    def __init__(self, source, settings):
-        self.source = source
-        self.settings = settings
-        self.session = requests.Session()
-        self.session.headers.update({"User-Agent": settings["user_agent"]})
-
-    def fetch(self, url):
+async def crawl_browser(page, source, settings):
+    start=source["url"]
+    max_pages=int(settings.get("max_pages_per_source",80))
+    allow_youtube=bool(settings.get("allow_youtube",True))
+    domain=urlparse(start).netloc
+    queue=[start]; seen=set(); records=[]
+    while queue and len(seen)<max_pages:
+        url=queue.pop(0)
+        if url in seen:
+            continue
+        seen.add(url)
         try:
-            r = self.session.get(url, timeout=self.settings["request_timeout"], allow_redirects=True)
-            if r.status_code >= 400:
-                return None, r.status_code
-            return r.text, r.status_code
-        except requests.RequestException as exc:
-            LOG.warning("%s: %s -> %s", self.source["name"], url, exc)
-            return None, 0
-
-    def crawl(self):
-        results = []
-        queue = list(self.source.get("start_urls", []))
-        seen = set()
-        pages = 0
-        while queue and pages < self.settings["max_pages_per_source"]:
-            url = queue.pop(0)
-            if url in seen:
+            await page.goto(url, wait_until="domcontentloaded",
+                            timeout=int(settings.get("browser_timeout_ms",30000)))
+            await page.wait_for_timeout(int(settings.get("render_wait_ms",1200)))
+            html=await page.content()
+        except Exception as exc:
+            print(f"AVISO {source['name']}: {url} -> {exc}")
+            continue
+        records.extend(discover_from_html(html,url,source,allow_youtube))
+        for a in await page.locator("a[href]").all():
+            try:
+                href=await a.get_attribute("href")
+                text=await a.inner_text()
+            except Exception:
                 continue
-            seen.add(url)
-            html, status = self.fetch(url)
-            pages += 1
-            if not html:
+            if not href:
                 continue
-
-            streams = extract_streams(html, url)
-            title = title_from_page(html)
-            if streams and valid_name(title):
-                results.append({
-                    "name": clean_text(title),
-                    "category": infer_category(title, url, html[:4000]),
-                    "page_url": url,
-                    "streams": streams,
-                    "source_id": self.source["id"],
-                    "source_name": self.source["name"],
-                    "official_hint": bool(self.source.get("official_only"))
-                })
-
-            links = extract_links(url, html)
-            base_host = urlparse(self.source["base_url"]).netloc
-            for href, text in links[:self.settings["max_links_per_page"]]:
-                if urlparse(href).netloc != base_host:
-                    continue
-                low = (href + " " + text).lower()
-                # Prioriza páginas de canais e evita páginas obviamente administrativas.
-                if any(x in low for x in ["canal", "canais", "tv", "live", "ao-vivo", "aovivo", "webtv", "stream"]):
-                    if href not in seen and href not in queue:
-                        queue.append(href)
-
-        return results
+            u=urljoin(url,href)
+            if urlparse(u).netloc==domain and u not in seen and should_follow(u,text):
+                queue.append(u)
+    return records

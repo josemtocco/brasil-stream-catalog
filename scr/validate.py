@@ -1,22 +1,13 @@
 import requests
+from urllib.parse import urlparse
 
-def validate_stream(url, timeout=12, user_agent="BrasilStreamCatalog/1.0"):
-    headers = {
-        "User-Agent": user_agent,
-        "Accept": "*/*",
-        "Range": "bytes=0-2048"
-    }
+def validate_stream(url, timeout=10):
+    host=urlparse(url).netloc.casefold()
+    if "youtube.com" in host or "youtu.be" in host:
+        return True
     try:
-        r = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True, stream=True)
-        status = r.status_code
-        ctype = (r.headers.get("content-type") or "").lower()
-        ok = status < 400 and (
-            "mpegurl" in ctype or
-            "application/vnd.apple.mpegurl" in ctype or
-            "dash" in ctype or
-            ".m3u8" in r.url.lower() or
-            ".mpd" in r.url.lower()
-        )
-        return {"ok": ok, "status": status, "final_url": r.url, "content_type": ctype}
-    except requests.RequestException as exc:
-        return {"ok": False, "status": 0, "final_url": url, "content_type": "", "error": str(exc)}
+        r=requests.get(url,headers={"User-Agent":"Mozilla/5.0","Range":"bytes=0-1024"},
+                       timeout=timeout,allow_redirects=True,stream=True)
+        return r.status_code < 500
+    except requests.RequestException:
+        return False
