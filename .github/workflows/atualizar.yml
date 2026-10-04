@@ -1,0 +1,50 @@
+name: Atualizar catálogo M3U
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions usa UTC. A cada 6 horas.
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Dependências
+        run: pip install -r requirements.txt
+
+      - name: Testar fontes
+        continue-on-error: true
+        run: python scripts/testar_fontes.py
+
+      - name: Gerar catálogo
+        run: python gerar_m3u.py
+
+      - name: Ver resultado
+        run: |
+          test -f relatorio.json && cat relatorio.json || true
+          test -f canais.m3u && wc -l canais.m3u || true
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add canais.m3u catalogo.json relatorio.json
+          git diff --cached --quiet || git commit -m "Atualiza catálogo de streams"
+          git push
