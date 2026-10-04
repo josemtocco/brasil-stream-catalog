@@ -1,42 +1,52 @@
 [
   {
     "name": "AM Canais",
-    "url": "https://www.amcanais.com.br/"
+    "url": "https://www.amcanais.com.br/",
+    "category": "TV"
   },
   {
     "name": "KE TV",
-    "url": "https://www.ketv.com.br/"
+    "url": "https://www.ketv.com.br/",
+    "category": "TV"
   },
   {
     "name": "CXTV",
-    "url": "https://www.cxtv.com.br/"
+    "url": "https://www.cxtv.com.br/",
+    "category": "TV"
   },
   {
     "name": "VidKS",
-    "url": "https://www.vidks.net/"
+    "url": "https://www.vidks.net/",
+    "category": "TV"
   },
   {
     "name": "DM Play",
-    "url": "https://diariodamidia.com.br/dmplay"
+    "url": "https://diariodamidia.com.br/dmplay",
+    "category": "TV"
   },
   {
     "name": "TVAOVIVO.VIP",
-    "url": "https://www.tvaovivo.vip/"
+    "url": "https://www.tvaovivo.vip/",
+    "category": "TV"
   },
   {
     "name": "FotoDicas TV",
-    "url": "https://fotodicas.com/"
+    "url": "https://fotodicas.com/",
+    "category": "TV"
   },
   {
     "name": "IPGO Web TV",
-    "url": "https://ipgotv.net.br/"
+    "url": "https://ipgotv.net.br/",
+    "category": "TV"
   },
   {
     "name": "MultiRádio",
-    "url": "https://multiradio.com.br/"
+    "url": "https://multiradio.com.br/",
+    "category": "TV"
   },
   {
     "name": "Televisão.TV",
-    "url": "https://televisao.tv/"
+    "url": "https://televisao.tv/",
+    "category": "TV"
   }
 ]

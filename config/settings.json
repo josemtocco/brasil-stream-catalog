@@ -1,7 +1,7 @@
 {
-  "max_pages_per_source": 80,
+  "max_pages_per_source": 60,
   "browser_timeout_ms": 30000,
-  "render_wait_ms": 1200,
+  "render_wait_ms": 1000,
   "stream_timeout": 10,
   "minimum_channels_to_publish": 5,
   "allow_youtube": true,
