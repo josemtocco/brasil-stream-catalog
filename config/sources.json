@@ -1,1 +1,97 @@
-
+[
+  {
+    "id": "cxtv",
+    "name": "CXTV",
+    "base_url": "https://www.cxtv.com.br",
+    "start_urls": ["https://www.cxtv.com.br/tv/paises/tvs-brasil"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": false
+  },
+  {
+    "id": "ketv",
+    "name": "KE TV",
+    "base_url": "https://www.ketv.com.br",
+    "start_urls": ["https://www.ketv.com.br/canais"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": false
+  },
+  {
+    "id": "vidks",
+    "name": "VidKS",
+    "base_url": "https://www.vidks.net",
+    "start_urls": [
+      "https://www.vidks.net/",
+      "https://www.vidks.net/category/broadcasttv",
+      "https://www.vidks.net/category/webtv",
+      "https://www.vidks.net/category/notice"
+    ],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": false
+  },
+  {
+    "id": "televisao_tv",
+    "name": "Televisão.TV",
+    "base_url": "https://televisao.tv",
+    "start_urls": ["https://televisao.tv/"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": false
+  },
+  {
+    "id": "tvaovivo",
+    "name": "TVAOVIVO.VIP",
+    "base_url": "https://www.tvaovivo.vip",
+    "start_urls": ["https://www.tvaovivo.vip/"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": true
+  },
+  {
+    "id": "amcanais",
+    "name": "AM Canais",
+    "base_url": "https://www.amcanais.com.br",
+    "start_urls": ["https://www.amcanais.com.br/"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": true
+  },
+  {
+    "id": "ipgo",
+    "name": "IPGO Web TV",
+    "base_url": "https://ipgotv.net.br",
+    "start_urls": ["https://ipgotv.net.br/"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": false
+  },
+  {
+    "id": "fotodicas",
+    "name": "FotoDicas TV",
+    "base_url": "https://fotodicas.com",
+    "start_urls": ["https://fotodicas.com/"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": true
+  },
+  {
+    "id": "multiradio",
+    "name": "MultiRádio",
+    "base_url": "https://multiradio.com.br",
+    "start_urls": ["https://multiradio.com.br/webtvs.php"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": false
+  },
+  {
+    "id": "dmplay",
+    "name": "DM Play",
+    "base_url": "https://diariodamidia.com.br",
+    "start_urls": ["https://diariodamidia.com.br/dmplay"],
+    "enabled": true,
+    "kind": "directory",
+    "official_only": true
+  }
+]
