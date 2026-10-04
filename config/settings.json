@@ -1,28 +1,9 @@
 {
-  "request_timeout": 20,
-  "max_pages_per_source": 120,
-  "max_links_per_page": 250,
-  "max_workers": 12,
-  "validate_streams": true,
-  "stream_timeout": 12,
+  "max_pages_per_source": 80,
+  "browser_timeout_ms": 30000,
+  "render_wait_ms": 1200,
+  "stream_timeout": 10,
   "minimum_channels_to_publish": 5,
-  "keep_inactive_days": 14,
-  "user_agent": "BrasilStreamCatalog/1.0 (+public-stream-discovery)",
-  "categories": [
-    "TV Aberta",
-    "Notícias",
-    "Esportes",
-    "Cultura",
-    "Educação",
-    "Religião",
-    "Agro",
-    "Infantil",
-    "Filmes",
-    "Música",
-    "Regional",
-    "Público",
-    "Variedades",
-    "WebTV",
-    "Outros"
-  ]
+  "allow_youtube": true,
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
 }
