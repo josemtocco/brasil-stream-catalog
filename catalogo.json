@@ -1,1 +1,322 @@
-[]
+[
+  {
+    "name": "Fifa Plus | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/fifa",
+    "stream": "https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Polishop | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-polishop",
+    "stream": "https://www.youtube.com/watch?v=aXIjK2KZXxQ",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "tv-brasil | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-brasil",
+    "stream": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Masper Tv | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/masper-tv",
+    "stream": "https://tv02.zas.media:1936/masper/masper/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ISTV | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/istv",
+    "stream": "https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Padre Cicero | AM Canais",
+    "category": "TV",
+    "source": "AM Canais",
+    "page": "https://www.amcanais.com.br/tv-padre-cicero",
+    "stream": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Band ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/band",
+    "stream": "https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Canal 2 Cultura ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvcultura",
+    "stream": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/redebrasil",
+    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Minas ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/redeminas",
+    "stream": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist_b2771072.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Mundo ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-mundo",
+    "stream": "https://video04.logicahost.com.br/redemundotv/redemundotv/chunklist_w759051315.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede NGT ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-ngt",
+    "stream": "https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBT Interior SP ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sbt-interior-sp",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tela Brasil TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tela-brasil-tv",
+    "stream": "https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ConecTV Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/conectv-brasil",
+    "stream": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Diario do Brasil Bauru SP ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-diario-brasil-bauru",
+    "stream": "https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8?hls_ctx=d7o97228",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Gazeta ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvgazeta",
+    "stream": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Petlovers TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/petlovers-tv",
+    "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NickToons Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/nicktoons",
+    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Manchete ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-manchete",
+    "stream": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "🚨 ELEIÇÕES 2026 AO VIVO: HORÁRIO, COLA E O QUE PODE E NÃO PODE NAS URNAS | CNN BRASIL — CNN Brasil",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/youtube/live/tmYUXGeKzr8",
+    "stream": "https://www.youtube.com/watch?v=tmYUXGeKzr8",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "AO VIVO: Bulgária e Turquia: o encontro entre Oriente e Ocidente | CNN Viagem &amp; Gastronomia — CNN Brasil",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/youtube/live/JFcNDl1ZSoU",
+    "stream": "https://www.youtube.com/watch?v=JFcNDl1ZSoU",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "AO VIVO: CNN MADRUGADA — ESPECIAL ELEIÇÕES 2026 - 04/10/26 — CNN Brasil",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/youtube/live/q1BFIm3hO8o",
+    "stream": "https://www.youtube.com/watch?v=q1BFIm3hO8o",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "AO VIVO: CNN Eleições: A Hora do Voto 2 - 04/10/2026 — CNN Brasil",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/youtube/live/lsvA-OIpd_I",
+    "stream": "https://www.youtube.com/watch?v=lsvA-OIpd_I",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "MULTIRÁDIO | Rádios e Web TVs",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/",
+    "stream": "https://5a2b083e9f360.streamlock.net/vida879/vida879.stream/chunklist_w1114265069.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Web TVs ao vivo | MultiRádio",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtvs.php",
+    "stream": "https://stmv3.liveplushd.com.br/mstvweb/mstvweb/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MSTV PLAY — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/mstv-play",
+    "stream": "https://stmv3.liveplushd.com.br/mstvweb/mstvweb/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Xtreme tv — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/xtreme-tv",
+    "stream": "https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Ldnews TV — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/ldnews-tv",
+    "stream": "https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Mix Play — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/tv-mix-play",
+    "stream": "https://Stmv1.samcast.com.br/leandroantonio7386/leandroantonio7386/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Caravana Play — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/caravana-play",
+    "stream": "https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV POMPEIA — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/tv-pompeia",
+    "stream": "https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Boa Esperança WebTV — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/boa-esperanca-webtv",
+    "stream": "https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rádio e Tv Explosãofm — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/radio-e-tv-explosaofm",
+    "stream": "https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RS.TV HD — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/rs-tv-hd",
+    "stream": "https://srv3.zcast.com.br/rstv/rstv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Singular — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/tv-singular",
+    "stream": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1110860119.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NickOnline — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/nickonline",
+    "stream": "https://x1colegal.com/hls/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "LUCAS TV — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/lucas-tv",
+    "stream": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Wording de Televisao — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/wording-de-televisao",
+    "stream": "https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV NOVA GERAÇÃO — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/tv-nova-geracao",
+    "stream": "https://stmv2.voxtvhd.com.br/jose6835/jose6835/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  }
+]
