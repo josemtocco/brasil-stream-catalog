@@ -1,9 +1,1 @@
-{
-  "max_pages_per_source": 60,
-  "browser_timeout_ms": 30000,
-  "render_wait_ms": 1000,
-  "stream_timeout": 10,
-  "minimum_channels_to_publish": 5,
-  "allow_youtube": true,
-  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
-}
+{"max_pages_per_source":180,"max_channel_pages":140,"max_candidates_per_source":600,"max_sitemap_urls":300,"browser_timeout_ms":25000,"render_wait_ms":700,"stream_timeout":10,"minimum_channels_to_publish":5,"allow_youtube":true,"user_agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"}

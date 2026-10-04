@@ -1,52 +1,12 @@
 [
-  {
-    "name": "AM Canais",
-    "url": "https://www.amcanais.com.br/",
-    "category": "TV"
-  },
-  {
-    "name": "KE TV",
-    "url": "https://www.ketv.com.br/",
-    "category": "TV"
-  },
-  {
-    "name": "CXTV",
-    "url": "https://www.cxtv.com.br/",
-    "category": "TV"
-  },
-  {
-    "name": "VidKS",
-    "url": "https://www.vidks.net/",
-    "category": "TV"
-  },
-  {
-    "name": "DM Play",
-    "url": "https://diariodamidia.com.br/dmplay",
-    "category": "TV"
-  },
-  {
-    "name": "TVAOVIVO.VIP",
-    "url": "https://www.tvaovivo.vip/",
-    "category": "TV"
-  },
-  {
-    "name": "FotoDicas TV",
-    "url": "https://fotodicas.com/",
-    "category": "TV"
-  },
-  {
-    "name": "IPGO Web TV",
-    "url": "https://ipgotv.net.br/",
-    "category": "TV"
-  },
-  {
-    "name": "MultiRádio",
-    "url": "https://multiradio.com.br/",
-    "category": "TV"
-  },
-  {
-    "name": "Televisão.TV",
-    "url": "https://televisao.tv/",
-    "category": "TV"
-  }
+{"name":"AM Canais","url":"https://www.amcanais.com.br/","max_pages":140,"max_channel_pages":100,"max_candidates":450},
+{"name":"KE TV","url":"https://www.ketv.com.br/canais","max_pages":180,"max_channel_pages":140,"max_candidates":500},
+{"name":"CXTV","url":"https://www.cxtv.com.br/tv/paises/tvs-brasil","max_pages":260,"max_channel_pages":200,"max_candidates":900},
+{"name":"VidKS","url":"https://www.vidks.net/discover","max_pages":220,"max_channel_pages":180,"max_candidates":700},
+{"name":"DM Play","url":"https://diariodamidia.com.br/dmplay","max_pages":120,"max_channel_pages":90,"max_candidates":350},
+{"name":"TVAOVIVO.VIP","url":"https://www.tvaovivo.vip/","max_pages":150,"max_channel_pages":120,"max_candidates":450},
+{"name":"FotoDicas TV","url":"https://fotodicas.com/","max_pages":120,"max_channel_pages":100,"max_candidates":350},
+{"name":"IPGO Web TV","url":"https://ipgotv.net.br/","max_pages":160,"max_channel_pages":120,"max_candidates":450},
+{"name":"MultiRádio","url":"https://multiradio.com.br/","max_pages":100,"max_channel_pages":80,"max_candidates":300},
+{"name":"Televisão.TV","url":"https://televisao.tv/","max_pages":260,"max_channel_pages":200,"max_candidates":800}
 ]
