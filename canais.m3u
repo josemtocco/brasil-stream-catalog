@@ -221,6 +221,8 @@ https://sbtnews.maissbt.com/3.m3u8
 https://video11.logicahost.com.br/sertaotv/sertaotv/chunklist_w265415093.m3u8
 #EXTINF:-1 tvg-name="SFT Combat ao vivo grátis online | KE TV" group-title="TV",SFT Combat ao vivo grátis online | KE TV
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
+#EXTINF:-1 tvg-name="SGC Tv - Rede TV Rondônia ao vivo grátis online | KE TV" group-title="TV",SGC Tv - Rede TV Rondônia ao vivo grátis online | KE TV
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1037467311.m3u8
 #EXTINF:-1 tvg-name="SIC Replay ao vivo grátis online | KE TV" group-title="TV",SIC Replay ao vivo grátis online | KE TV
 https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9a7dce4ff2dcebac2e&bpkio_sessionid=10d1b138d241-bd75e035-db88-4399-82ce-8d70abe8d533&category=all&mm_sp
 #EXTINF:-1 tvg-name="Sony One Cinema ao vivo grátis online | KE TV" group-title="TV",Sony One Cinema ao vivo grátis online | KE TV
@@ -356,7 +358,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="tv-encontro-das-aguas | AM Canais" group-title="TV",tv-encontro-das-aguas | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="tv-futuro | AM Canais" group-title="TV",tv-futuro | AM Canais
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="TVI ao vivo grátis online | KE TV" group-title="TV",TVI ao vivo grátis online | KE TV
 https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=381724625&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==
 #EXTINF:-1 tvg-name="TVI Ficção ao vivo grátis online | KE TV" group-title="TV",TVI Ficção ao vivo grátis online | KE TV

@@ -628,7 +628,7 @@
     "category": "TV",
     "source": "AM Canais",
     "page": "https://www.amcanais.com.br/tv-futuro",
-    "stream": "https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -1590,5 +1590,13 @@
     "page": "https://www.tvaovivo.vip/canal/cancao-nova",
     "stream": "https://www.youtube.com/watch?v=nv6UjvAcMj0",
     "stream_type": "youtube"
+  },
+  {
+    "name": "SGC Tv - Rede TV Rondônia ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sgc-tv-rede-tv-rondonia",
+    "stream": "https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1037467311.m3u8",
+    "stream_type": "hls/mpd"
   }
 ]
