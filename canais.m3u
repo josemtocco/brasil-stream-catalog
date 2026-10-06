@@ -358,7 +358,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="tv-encontro-das-aguas | AM Canais" group-title="TV",tv-encontro-das-aguas | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="tv-futuro | AM Canais" group-title="TV",tv-futuro | AM Canais
-https://sbtnews.maissbt.com/3.m3u8
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-name="TVI ao vivo grátis online | KE TV" group-title="TV",TVI ao vivo grátis online | KE TV
 https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=381724625&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==
 #EXTINF:-1 tvg-name="TVI Ficção ao vivo grátis online | KE TV" group-title="TV",TVI Ficção ao vivo grátis online | KE TV
