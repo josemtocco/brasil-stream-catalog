@@ -900,7 +900,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/redetv",
-    "stream": "https://live.eu-north-1b.cf.dmcdn.net/sec2(vORAsmXszunUoojzU0z4cECziPGtFc4oCrp5Z5XLwrG5G9MTd-GP_rmx-N3rzIpx5ycdK8-aluI5LjADh1sx3MZkpM3HgUOSKi_XoYhDRiHbmK_dhAr6BKWEvRl_QxSr)/dm/3/x8xps0s/d/live-1080.m3u8",
+    "stream": "https://live.eu-north-1a.cf.dmcdn.net/sec2(jwvcX3zok9DfSTj2ZQ2SDSb4bW_ivIi__vcY80geQ3XpiLPgUo2uFm16SaX_SGHqdANAGo9ZrueXdss9nrw98p45DinQ_Fw8U47d2T73bDQH3UyJiA3hb3omvkKgB9Dq)/dm/3/x8xps0s/d/live-1080.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -956,7 +956,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi",
-    "stream": "https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=381724625&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream": "https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2968631030&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjExOjMyIFBNJmhhc2hfdmFsdWU9cUFqZlF0WWJ0ZnVsdnY3M1VrOTlQdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ3MjYxY2FjLTIxM2MtNGIyZS04ZTVlLTJiZWNiMDEwZDliMQ==",
     "stream_type": "hls/mpd"
   },
   {
@@ -964,7 +964,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-reality",
-    "stream": "https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=381725743&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2968631092&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjEyOjUxIFBNJmhhc2hfdmFsdWU9c0tJUXpIUVJyRm5jTFoyeVI1L2VNdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFmNmQ2NTkzLTc5OGYtNDA1MS1hM2FhLTAyMTBhNDI3NjEzNQ==",
     "stream_type": "hls/mpd"
   },
   {
@@ -972,7 +972,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-ficcao",
-    "stream": "https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=381726790&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2968631113&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjE2OjU4IFBNJmhhc2hfdmFsdWU9dzYwdmtEd3pUUEN2QjJhaXd1TnRXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNhOWEwM2QzLWM1ZDMtNGFiMC04MThlLWVjNzQ4ODY1OTM5Yw==",
     "stream_type": "hls/mpd"
   },
   {
@@ -980,7 +980,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/sertao-tv",
-    "stream": "https://video11.logicahost.com.br/sertaotv/sertaotv/chunklist_w265415093.m3u8",
+    "stream": "https://stmv8.samcast.com.br/tvsertaonet/tvsertaonet/playlist.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -1068,7 +1068,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-internacional-ao-vivo-portugal-para-o-mundo",
-    "stream": "https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=381728802&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI2IDEyOjMwOjUwIEFNJmhhc2hfdmFsdWU9UjlHZnd2eGo4Smx3ZzRMTzZSM3FVQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWVhNzJmLTY1ZTUtNGI5My05YTAxLTQ4YjM5ODlhYjkzNA==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2968631336&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjE4OjI0IFBNJmhhc2hfdmFsdWU9KzlURUp4dHJwSTZtT3FMaTc1b1NMZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJhMDNiMDNiLTUwZTEtNDJjMy04MjVkLTE1ODQzM2FlZmEyYQ==",
     "stream_type": "hls/mpd"
   },
   {
