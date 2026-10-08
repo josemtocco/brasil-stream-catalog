@@ -1598,5 +1598,125 @@
     "page": "https://www.ketv.com.br/canal/sgc-tv-rede-tv-rondonia",
     "stream": "https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1037467311.m3u8",
     "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Top TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/top-tv",
+    "stream": "https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Anime Channel TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/anime-channel-tv",
+    "stream": "https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w488292470.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Band RS ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/band-rs",
+    "stream": "https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImVjNmUyMGQyLTliY2YtNGNjNi1iMjAxLWZkYjgzZDhmNTI2MSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NjI5OTE0MCwibmJmIjoxNzg2Mjk5MTQwLCJleHAiOjE3ODg4OTExNDAsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImVjNmUyMGQyLTliY2YtNGNjNi1iMjAxLWZkYjgzZDhmNTI2MSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.KKNHyOhQd2P9cJeC0C1-f-Ls5oNRX5yJpREZMspUznE&uid=ec6e20d2-9bcf-4cc6-b201-fdb83d8f5261",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-de-radio-e-tv-web-jesus-cristo-para-as-nacoes",
+    "stream": "https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/chunklist_w338675785.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV GIDEÕES ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-gideoes",
+    "stream": "https://tv01.zas.media:1936/gideoes/gideoes/chunklist_w1082476036.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV CONEXÃO CELESTIAL ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-conexao-celestial",
+    "stream": "https://stmv7.voxtvhd.com.br/tvconexaocelestial/tvconexaocelestial/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SEMEAR TV WEB ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/semear-tv-web",
+    "stream": "https://stmv2.samcast.com.br/semeartv/semeartv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV SUPER GOSPEL ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-super-gospel",
+    "stream": "https://stmv6.voxtvhd.com.br/22240/22240/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV BRASIL ANGOLA ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-brasil-angola",
+    "stream": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w915207515.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Sonora ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-sonora",
+    "stream": "https://video01.brascast.com/xavier4499/xavier4499/playlist.m3u8?hls_ctx=8vx8c428",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Fonte TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/fonte-tv",
+    "stream": "https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1723703555.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Universo TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-universo-tv",
+    "stream": "https://srv5.zcast.com.br/universotv/universotv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Igreja Online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/igreja-online-ao-vivo",
+    "stream": "https://vz-68323952-633.b-cdn.net/77de4c9e-b8c2-487c-87f0-f333f267ac0f/1080p/video.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Alfa ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-alfa-ao-vivo",
+    "stream": "https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Fé TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/fe-tv",
+    "stream": "https://stream.castr.com/68ef8ef96ba67f8647751c77/live_834ad9a0ae7611f0b539a32ce06e103f/tracks-v1/index.fmp4.m3u8",
+    "stream_type": "hls/mpd"
   }
 ]
