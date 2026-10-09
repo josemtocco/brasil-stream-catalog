@@ -18,14 +18,14 @@
     },
     {
       "source": "CXTV",
-      "pages_scanned": 260,
-      "channel_candidates": 39,
+      "pages_scanned": 1,
+      "channel_candidates": 0,
       "records": 0
     },
     {
       "source": "VidKS",
       "pages_scanned": 220,
-      "channel_candidates": 254,
+      "channel_candidates": 253,
       "records": 0
     },
     {
