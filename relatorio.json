@@ -1,14 +1,14 @@
 {
   "status": "updated",
-  "discovered": 198,
-  "valid": 190,
+  "discovered": 197,
+  "valid": 189,
   "published": 215,
   "sources": [
     {
       "source": "AM Canais",
       "pages_scanned": 91,
       "channel_candidates": 88,
-      "records": 49
+      "records": 48
     },
     {
       "source": "KE TV",
@@ -25,7 +25,7 @@
     {
       "source": "VidKS",
       "pages_scanned": 220,
-      "channel_candidates": 253,
+      "channel_candidates": 257,
       "records": 0
     },
     {
