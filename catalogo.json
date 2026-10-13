@@ -956,7 +956,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi",
-    "stream": "https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2968631030&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjExOjMyIFBNJmhhc2hfdmFsdWU9cUFqZlF0WWJ0ZnVsdnY3M1VrOTlQdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ3MjYxY2FjLTIxM2MtNGIyZS04ZTVlLTJiZWNiMDEwZDliMQ==",
+    "stream": "https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2969404337&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjEwOjQyIFBNJmhhc2hfdmFsdWU9R1k4SlZlaXorU3NIQSt5QmVnTFRndz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAwOGQxOWZjLTA3OWUtNDhmZS05ZDVlLTM3Y2VmOGQ1ZTBhMA==",
     "stream_type": "hls/mpd"
   },
   {
@@ -964,7 +964,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-reality",
-    "stream": "https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2968631092&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjEyOjUxIFBNJmhhc2hfdmFsdWU9c0tJUXpIUVJyRm5jTFoyeVI1L2VNdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFmNmQ2NTkzLTc5OGYtNDA1MS1hM2FhLTAyMTBhNDI3NjEzNQ==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2969404402&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjEyOjU0IFBNJmhhc2hfdmFsdWU9THBpbm1jdFFienRoWFNnd2lQYnFvdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTliZGEyYWUxLTkxY2EtNGUwYi1hN2M5LTZhNzE1MGJlYTIxNg==",
     "stream_type": "hls/mpd"
   },
   {
@@ -972,7 +972,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-ficcao",
-    "stream": "https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2968631113&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjE2OjU4IFBNJmhhc2hfdmFsdWU9dzYwdmtEd3pUUEN2QjJhaXd1TnRXdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNhOWEwM2QzLWM1ZDMtNGFiMC04MThlLWVjNzQ4ODY1OTM5Yw==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2969404512&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjExOjI2IFBNJmhhc2hfdmFsdWU9WjA4cGtpVEpEQjJoeWlzZU9BREJyZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NmEzOTc0LWQ2NWEtNDU2Mi1iMDFlLTJkMzlmNTM3MGNkZQ==",
     "stream_type": "hls/mpd"
   },
   {
@@ -1068,7 +1068,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-internacional-ao-vivo-portugal-para-o-mundo",
-    "stream": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2968631336&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDI2IDExOjE4OjI0IFBNJmhhc2hfdmFsdWU9KzlURUp4dHJwSTZtT3FMaTc1b1NMZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJhMDNiMDNiLTUwZTEtNDJjMy04MjVkLTE1ODQzM2FlZmEyYQ==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2969404798&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjE0OjQyIFBNJmhhc2hfdmFsdWU9cXpsTFB0WDVPNjlObkdUZWt5VUV3UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQzYzE0ZDZhLTc4NDgtNDE5Yy04ZjgzLTMwYzM5MDNlYmNlZg==",
     "stream_type": "hls/mpd"
   },
   {

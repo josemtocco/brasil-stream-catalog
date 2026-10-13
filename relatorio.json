@@ -1,7 +1,7 @@
 {
   "status": "updated",
   "discovered": 149,
-  "valid": 145,
+  "valid": 146,
   "published": 215,
   "sources": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "source": "DM Play",
-      "pages_scanned": 1,
+      "pages_scanned": 8,
       "channel_candidates": 0,
       "records": 0
     },
