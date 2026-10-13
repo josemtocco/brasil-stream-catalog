@@ -1,7 +1,7 @@
 {
   "status": "updated",
   "discovered": 149,
-  "valid": 144,
+  "valid": 145,
   "published": 215,
   "sources": [
     {
@@ -37,7 +37,7 @@
     {
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
-      "channel_candidates": 140,
+      "channel_candidates": 163,
       "records": 2
     },
     {
