@@ -1,8 +1,8 @@
 {
   "status": "updated",
-  "discovered": 152,
-  "valid": 149,
-  "published": 215,
+  "discovered": 341,
+  "valid": 312,
+  "published": 381,
   "sources": [
     {
       "source": "AM Canais",
@@ -12,9 +12,9 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 28,
+      "pages_scanned": 22,
       "channel_candidates": 500,
-      "records": 134
+      "records": 131
     },
     {
       "source": "CXTV",
@@ -48,9 +48,9 @@
     },
     {
       "source": "IPGO Web TV",
-      "pages_scanned": 1,
-      "channel_candidates": 0,
-      "records": 0
+      "pages_scanned": 160,
+      "channel_candidates": 375,
+      "records": 192
     },
     {
       "source": "MultiRádio",

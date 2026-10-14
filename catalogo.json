@@ -1718,5 +1718,1333 @@
     "page": "https://www.ketv.com.br/canal/fe-tv",
     "stream": "https://stream.castr.com/68ef8ef96ba67f8647751c77/live_834ad9a0ae7611f0b539a32ce06e103f/tracks-v1/index.fmp4.m3u8",
     "stream_type": "hls/mpd"
+  },
+  {
+    "name": "The FIFA Club World Cup is coming to DAZN for FREE in 2025",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/appsite/index.php/canais-externos",
+    "stream": "https://www.youtube.com/watch?v=-0_HchzVLe4",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "PLAYLIST",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/webstats/index.php/grade-classique-legendado/145-playlist",
+    "stream": "https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI2IDY6OToyNSBQTSZoYXNoX3ZhbHVlPXNnN2ZCdXN1V1VEMFBvb3RwVkJodGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03NThkNDI3MC1jZWViLTQ5ZjgtYmFlNy1lYWVhZDcyZDMzMjc=",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ASSISTIR OS CANAIS NA SUA TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/appsite/index.php/procurar/assitir-os-canais-na-sua-tv",
+    "stream": "https://www.youtube.com/watch?v=VTvh0eDKrZ4",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "CHRISTMAS TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/cristmastv/01",
+    "stream": "https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Z NATION(pt)",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/z-nation/pt/",
+    "stream": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889478",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV:AÇÃO",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_acao/",
+    "stream": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CRIME",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CRIME/",
+    "stream": "https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : COMÉDIA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/COMEDIA1/",
+    "stream": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : SERIES",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/SERIES/",
+    "stream": "https://run-rss.otteravision.com/run/rss/rss_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Novelas Turcas",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/novelas-turcas/",
+    "stream": "https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/1080p/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Z NATION(es)",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/z-nation/es/",
+    "stream": "https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889482",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : ACCIÓN",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/ACCION/",
+    "stream": "https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : SANGRE FRÍA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/SANGRE_FRIA/",
+    "stream": "https://run-rt-sf.otteravision.com/run/rt_sf/rt_sf_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : ANA Y LOS 7",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/ANA_Y_LOS7/",
+    "stream": "https://run-al-es.otteravision.com/run/al_es/al_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CLÁSICOS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CLASICOS/",
+    "stream": "https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CRIMEN",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CRIMEN/",
+    "stream": "https://run-cr-es.otteravision.com/run/cr_es/cr_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CRIMEN 2",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CRIMEN2/",
+    "stream": "https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "K CINE",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "http://ipgotv.net.br/tv/tvext/cat_gospel/kcine/",
+    "stream": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "INTER 24/7",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext2/player.php?id=4",
+    "stream": "https://amg27604-amg27604c1-amgplt0165.playout.now3.amagi.tv/playlist/amg27604-amg27604c1-amgplt0165/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "VIA MORENA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/via-morena/",
+    "stream": "https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "EURO NEWS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/euronews/",
+    "stream": "https://da2884db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c0VuZ2xpc2hfSExT/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV CEI",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tv_cei/",
+    "stream": "https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "FRANCE 24 ESPAÑOL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/francetv/",
+    "stream": "https://www.youtube.com/watch?v=Y-IlMeCCtIg",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "RT ESPAÑOL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rt/",
+    "stream": "https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "IRAN TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/iran_tv/",
+    "stream": "https://live.playstop.me/1816184091/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "DW em espanhol",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/dw/",
+    "stream": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CBS NEWS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/cbs_news/",
+    "stream": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "AFRICANEWS.",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/africanews/",
+    "stream": "https://www.youtube.com/watch?v=NQjabLGdP5g",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "AMERICA TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/america_tv/",
+    "stream": "https://www.youtube.com/watch?v=zcWXboTnous",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "RETRO PLUS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/retro_plus/",
+    "stream": "https://tls-cl.cdnz.cl/retroplustvuno/live/player.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MyTime Movie Network",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/mytime/",
+    "stream": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CINE ESPANTO",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CINE_ESPANTO/",
+    "stream": "https://run-th-br.otteravision.com/run/th_br/th_br_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CINE ESPANTO 2",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CINE_ESPANTO_2/",
+    "stream": "https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ITV Deportes",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/itv-deportes",
+    "stream": "https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist1080p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : COMEDIA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/COMEDIA2/",
+    "stream": "https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CINE Y SERIES",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CINEYSERIES/",
+    "stream": "https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : ENGLISH",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/english",
+    "stream": "https://run-rt-us.otteravision.com/out/v1/336b14e0a931466f99386ae576d30a57/index_1.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : FRANCE",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/france",
+    "stream": "https://run-rt-fr.otteravision.com/run/rt_fr/rt_fr_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TODO CINE",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/todo_cine/",
+    "stream": "https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : CURRO JIMÉNEZ",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/CURROJIMENEZ/",
+    "stream": "https://run-cj-es.otteravision.com/run/cj_es/cj_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Qwest TV&lt;",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "http://ipgotv.net.br/tv/tvext/qwest/",
+    "stream": "https://plexaaaaa-qwest-jazz-plex-miu19.amagi.tv/playlist/plexAAAAA-qwest-jazz-plex/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : ROMANCE",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/romance/",
+    "stream": "https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : ROMANCE 2",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/romance2/",
+    "stream": "https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : THRILLER",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/THRILLER/",
+    "stream": "https://run-th-es.otteravision.com/run/th_es/th_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : TV E FILMES",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/TVEFILMES/",
+    "stream": "https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV :TV Y PELÍCULAS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/tv_y_peliculas/",
+    "stream": "https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : TRASH",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "http://ipgotv.net.br/tv/tvext/runtime_trash/",
+    "stream": "https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : REBELDE",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/rebelde/",
+    "stream": "https://run-rtreb.otteravision.com/run/rtreb/rtreb_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Motorvision TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/Motorvision_tv/",
+    "stream": "https://mvg-mv-es.otteravision.com/mvg/mv_es/mv_es_1080p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Deportes13 TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/deportes13-tv/",
+    "stream": "https://dai.google.com/linear/hls/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "EL TORO TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/el-toro-tv/",
+    "stream": "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Ideas en 5 Minutos",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/ideas-en-5-minutos/",
+    "stream": "https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ISTV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/istv/",
+    "stream": "https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Wording tv",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/wordingtv/",
+    "stream": "https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1495874316.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Dance Television",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/dance-television/",
+    "stream": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "World Poker Tour",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/world-poker-tour/",
+    "stream": "https://amg00218-wptenterprises-amg00218c2-plex-us-1682.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-plexus/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "AZTECA UNO",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/azteca-uno/",
+    "stream": "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "That's 70's",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/thats-70s/",
+    "stream": "https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "That's Rock",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/thats-rock/",
+    "stream": "https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SOL MÚSICA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/sol-musica/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "That's 80s",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/thats-80s",
+    "stream": "https://lightning-now80s-samsungnz.amagi.tv/playlist360p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "GRJNGO - Filmes de Faroeste",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/grjngo/grjngo-filmes-de-faroeste/",
+    "stream": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "GRJNGO - Películas Del Oeste",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/grjngo/grjngo-peliculas-del-oeste/",
+    "stream": "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "REDE SUPER",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rede_super/",
+    "stream": "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "REDE GOSPEL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/REDEGOSPEL/",
+    "stream": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Gideões",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tv-gideoes/",
+    "stream": "https://tv01.zas.media:1936/gideoes/gideoes/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV JESUS CRISTO PARA AS NAÇÕES",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tvjesuscristo/",
+    "stream": "https://stmv4.voxtvhd.com.br/apostoloroberto/apostoloroberto/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Evangelizar",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/evangelizar/",
+    "stream": "https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "PAI ETERNO",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/pai_eterno/",
+    "stream": "https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "REDE VIDA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rede_vida",
+    "stream": "https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV SÉCULO 21",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tvseculo_21",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/chunklist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV APARECIDA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tvaparecida",
+    "stream": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV ARACATI",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tvaracati/",
+    "stream": "https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "LONE STAR",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/lone_star/",
+    "stream": "https://lonestar-rakuten.amagi.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "REDETV! - PR",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/redetv-pr/",
+    "stream": "https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Hi-YAH!",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/Hi-YAH/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1119",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SONY ONE SHARK TANK BRASIL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/sony-one-shark-tank/",
+    "stream": "https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "W1 WEBTV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/w1webtv/",
+    "stream": "https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RBTV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rbtv/",
+    "stream": "https://redebrasileira.nuvemplay.live/hls/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RED BULL TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/redbull/",
+    "stream": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "DRONE TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/drone-tv/",
+    "stream": "https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ESPORTES BRASÍLIA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/esportes_brasilia/",
+    "stream": "https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "FUEL TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/fueltv/",
+    "stream": "https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TRAILERS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/trailers/",
+    "stream": "https://amg01821-lovetvchannels-lovemagazinespain-tivify-tivify-8o5mz.amagi.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Love The Planet",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/love-the-planet/",
+    "stream": "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "VRT CHANNEL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/vrt-channel/",
+    "stream": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NOVA PLAY",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext2/player.php?id=3",
+    "stream": "https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "UCL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/ucl/",
+    "stream": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Remember The 80s",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/stingray-remember-the-80s/",
+    "stream": "https://d1imh73yrie9zu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tqikpnjgwyvj8/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Nothin' But 90s",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/stingray-nothin-but-90s/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3028",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MIAMI TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/miami-tv/",
+    "stream": "https://59ec5453559f0.streamlock.net/JennyLive/_definst_/JennyLive/chunklist_w299580360.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RTL TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rtl/",
+    "stream": "https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "M2O TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/m2o_tv/",
+    "stream": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Techno Warehouse",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/dancetv/Techno-Warehouse/",
+    "stream": "https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "House Floor",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/dancetv/House-Floor/",
+    "stream": "https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MNML",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/dancetv/MNML/",
+    "stream": "https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Melodic Tech",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/dancetv/Melodic-Tech/",
+    "stream": "https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rakuten TV Family (pt)",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rakuten_familia/",
+    "stream": "https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rakuten TV En FamiliaRakuten TV En Familia",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rakuten_familia/es",
+    "stream": "https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CINE FRIKI",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext2/player.php?id=2",
+    "stream": "https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "THE ED SULLIVAN SHOW",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/the-ed-sullivan-show/",
+    "stream": "https://linear-598.frequency.stream/mt/plex/598/hls/master/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Quietude 4K",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/quietude-4k",
+    "stream": "https://dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NHK WORLD",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/nhk-world/",
+    "stream": "https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=29-mp4a_380800_jpn=28.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TeleFórmula",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/teleformula",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "AZTECA INTERNACIONAL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/azteca_internacional/",
+    "stream": "https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Aljazeera TV-Arabic",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/Aljazeera_tv/arabic/",
+    "stream": "https://live-hls-web-aja.getaj.net/AJA/02.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV2 Nord Salto",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/TV2_Nord_Salto/",
+    "stream": "https://livecdn.euw1-0005.jwplive.com/live/sites/yXh2UIbN/media/KFXZ5tL6/live.isml/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CANELA KIDS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/canela-kids/",
+    "stream": "https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "5-Minute Crafts",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/5-minute-crafts",
+    "stream": "https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Flashback 70s",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Flashback-70s/",
+    "stream": "https://d30hccj9v28bt6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jp7qdac3e1wzj/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Greatest Hits",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Greatest-Hits/",
+    "stream": "https://d2ijgfgrz03rvu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l5gypvhxzqytm/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Euro Hits",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Euro-Hits/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3019",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Pop Adult",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Pop-Adult",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3023",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Cmusic",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Cmusic",
+    "stream": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/live/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Djazz",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Djazz",
+    "stream": "https://d1or3dijypy7w9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fnc447z72mkdf/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Smooth Jazz",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Smooth-Jazz",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3022",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Classica",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Classica",
+    "stream": "https://d2bpmlqcx2tu90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0e1oqtyors2s/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Holidayscapes",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Holidayscapes/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6195",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Hit List",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Hit-List/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Classic Rock",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Classic-Rock/",
+    "stream": "https://d1gblbamdkwl5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rlxixsm66esse/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Hot Country",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Hot-Country/",
+    "stream": "https://d33l69tlyxnc6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o1stobjejuzbx/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Power Nation TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/power-nation-tv",
+    "stream": "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ARTFLIX",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/artfllix/",
+    "stream": "https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "GLN TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/gln_tv/",
+    "stream": "https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MasterChef Brasil",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/masterchef-brasil/",
+    "stream": "https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "COMBATV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/combatv",
+    "stream": "https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Moviesphere Brazil",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/moviesphere-brazil/",
+    "stream": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TRACE BRAZUCA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/trace-brazuca",
+    "stream": "https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TRACE LATINA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/trace-latina",
+    "stream": "https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TRACE URBAN",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/trace-urban/",
+    "stream": "https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CNN",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/cnnbr/",
+    "stream": "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV JOVEM PAN",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tv-jovem-pan/",
+    "stream": "https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "24h",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/24h/",
+    "stream": "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TELESUR",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/telesur/",
+    "stream": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Corazón",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/corazon",
+    "stream": "https://azt-cz-cnm.otteravision.com/azt/cz/cz_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Acción Mexicana",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/accion-mexicana",
+    "stream": "https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/1080p/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "VIVE KANAL D DRAMA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/vive-kanal-d-drama",
+    "stream": "https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RCN MÁS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rcnmas/",
+    "stream": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Sony One Emoções",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/sony-one-emocoes/",
+    "stream": "https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TELA VIVA TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tela-viva-tv",
+    "stream": "https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RECORD NEWS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rnews/",
+    "stream": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBT News",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/sbt-news/",
+    "stream": "https://sbtnews.maissbt.com/3.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Amazon Sat",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/amazon-sat/",
+    "stream": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV BRASIL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tvbrasil/",
+    "stream": "https://tvbrasil-stream.ebc.com.br/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CANAL EDUCAÇÃO",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/canal-educacao/",
+    "stream": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CULTURA-APERIPE TV (SE)",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tv_cultura/",
+    "stream": "https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV CARAVELAS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tvcaravelas/",
+    "stream": "https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/chunklist_w267220577.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Câmara",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/tvcamara/",
+    "stream": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "V2BEAT TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/v2beat-tv/",
+    "stream": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Qello Concerts",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/qello_concerts/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=568",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NOVELISIMA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/novelisima",
+    "stream": "https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CANAL 29",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/canal-29/",
+    "stream": "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "VINTAGE TV",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/vintage/",
+    "stream": "https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "REDE BRASIL",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/rb-tv/",
+    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MIAMI TV LATINO",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/miamitv_latino/",
+    "stream": "https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CANELA CLÁSICOS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/canela-clasicos/",
+    "stream": "https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/1080p/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Hercai",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/hercai",
+    "stream": "https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Clic",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/clic/",
+    "stream": "https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Cine Romántico",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/cine-romantico",
+    "stream": "https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Free TV Drama",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/free-tv/drama/",
+    "stream": "https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352/variant/22099961.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : FAMILIA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/familia/",
+    "stream": "https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RUNTIME TV : FAMÍLIA",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/runtime_tv/familia_br/",
+    "stream": "https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NATURE TIME",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/nature-time/",
+    "stream": "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Stingray Naturescape",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/stingray/Stingray-Naturescape/",
+    "stream": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3041",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "PELIMEX",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/pelimex",
+    "stream": "https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Toon Goggles",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/ToonGoggles/",
+    "stream": "https://tg-tg-br.otteravision.com/tg/tg_br/tg_br_720.m3u8",
+    "stream_type": "hls/mpd"
   }
 ]
