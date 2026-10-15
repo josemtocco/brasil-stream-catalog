@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 149,
-  "valid": 146,
+  "discovered": 152,
+  "valid": 150,
   "published": 381,
   "sources": [
     {
@@ -12,9 +12,9 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 22,
+      "pages_scanned": 26,
       "channel_candidates": 500,
-      "records": 131
+      "records": 134
     },
     {
       "source": "CXTV",
@@ -30,7 +30,7 @@
     },
     {
       "source": "DM Play",
-      "pages_scanned": 8,
+      "pages_scanned": 9,
       "channel_candidates": 0,
       "records": 0
     },
