@@ -331,6 +331,8 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES ao vivo grátis online | KE TV" group-title="TV",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES ao vivo grátis online | KE TV
 https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/chunklist_w338675785.m3u8
+#EXTINF:-1 tvg-name="Rede Globo ao vivo grátis online | KE TV" group-title="TV",Rede Globo ao vivo grátis online | KE TV
+https://live-ber-sp-11-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTExLTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MjI3MjAxMiwiaWF0IjoxNzkyMjUwNDEyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY5MjQ1NTE0LWM5Y2MtNDJkZC1hYTNjLTI5MzIyMTYzMzViNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.KwmCp9_qKWdWYtSUGAH4RecEtUy7lARU4sDZ-NykPcpIvv30BgwGzHDXU3TVJ6yrwPRZgC9k1rLYcxpUs2Avn_KVROBjPfr2BvpnkPDgZ90apQXZMTbTU1TV6ahlYqgZRmnNP9WRpN28VnSBpgrWH8QleV5QDOWa6-LzsodIxExp75tlXnX3Z08kpRPr5-AdtKBGenbYNHj7ToKl1TCVNiFNkN-GXEGYUt_DMuH1KuLlZPwRqWxoEsPjlB_foeqKCejruk7v5zxAEVKykNwQ70E0_ota4lyy8xnE7B9CC7ujWrGsK0Z94bM0iB-7o7LxbEensxl43eXtHYGsVq6mmg/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/b20fb158-25d0-40af-a08d-11f07b2bc32c:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8
 #EXTINF:-1 tvg-name="REDE GOSPEL" group-title="TV",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Minas ao vivo grátis online | KE TV" group-title="TV",Rede Minas ao vivo grátis online | KE TV
@@ -461,8 +463,10 @@ https://stmv8.samcast.com.br/tvsertaonet/tvsertaonet/playlist.m3u8
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 #EXTINF:-1 tvg-name="SGC Tv - Rede TV Rondônia ao vivo grátis online | KE TV" group-title="TV",SGC Tv - Rede TV Rondônia ao vivo grátis online | KE TV
 https://5b33b873179a2.streamlock.net:1443/canal17/livestream/chunklist_w1037467311.m3u8
+#EXTINF:-1 tvg-name="SIC Alta Definição ao vivo grátis online | KE TV" group-title="TV",SIC Alta Definição ao vivo grátis online | KE TV
+https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_ge_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9aa54bbe52b1bd9b6b&bpkio_sessionid=10e1b128e18-02627d87-f902-45a1-a206-bcc079d912a8&category=all&mm_sp
 #EXTINF:-1 tvg-name="SIC Replay ao vivo grátis online | KE TV" group-title="TV",SIC Replay ao vivo grátis online | KE TV
-https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9a7dce4ff2dcebac2e&bpkio_sessionid=10d1b138d241-bd75e035-db88-4399-82ce-8d70abe8d533&category=all&mm_sp
+https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9a7dce4ff2dcebac2e&bpkio_sessionid=10d1a207a49-5a4f4159-8720-4110-8079-48500b24452c&category=all&mm_sp
 #EXTINF:-1 tvg-name="SOL MÚSICA" group-title="TV",SOL MÚSICA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
 #EXTINF:-1 tvg-name="Sony One Cinema ao vivo grátis online | KE TV" group-title="TV",Sony One Cinema ao vivo grátis online | KE TV
@@ -700,15 +704,19 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-name="TV2 Nord Salto" group-title="TV",TV2 Nord Salto
 https://livecdn.euw1-0005.jwplive.com/live/sites/yXh2UIbN/media/KFXZ5tL6/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-name="TVI ao vivo grátis online | KE TV" group-title="TV",TVI ao vivo grátis online | KE TV
-https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2969404337&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjEwOjQyIFBNJmhhc2hfdmFsdWU9R1k4SlZlaXorU3NIQSt5QmVnTFRndz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAwOGQxOWZjLTA3OWUtNDhmZS05ZDVlLTM3Y2VmOGQ1ZTBhMA==
+https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2970012653&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxOjQ3OjU3IFBNJmhhc2hfdmFsdWU9SUJPRTNQTnJIdXdreEF5Ly9tWG5rZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEyNjliZGVkLWQ3OTEtNDk1ZC1hYTk0LWJjNzY5ZWE5ZWU1Yg==
 #EXTINF:-1 tvg-name="TVI Ficção ao vivo grátis online | KE TV" group-title="TV",TVI Ficção ao vivo grátis online | KE TV
-https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2969404512&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjExOjI2IFBNJmhhc2hfdmFsdWU9WjA4cGtpVEpEQjJoeWlzZU9BREJyZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg3NmEzOTc0LWQ2NWEtNDU2Mi1iMDFlLTJkMzlmNTM3MGNkZQ==
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2970012737&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxOjQ5OjQ1IFBNJmhhc2hfdmFsdWU9QXZKK2F0ZmF1UjVRT3AxNGdNd3I4UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThlMTNlZDliLWJlNDAtNGQxMC1iNTg0LTMxM2ZkMjZkYjRhYw==
 #EXTINF:-1 tvg-name="TVI Internacional ao vivo — Portugal para o mundo ao vivo grátis online | KE TV" group-title="TV",TVI Internacional ao vivo — Portugal para o mundo ao vivo grátis online | KE TV
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2969404798&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjE0OjQyIFBNJmhhc2hfdmFsdWU9cXpsTFB0WDVPNjlObkdUZWt5VUV3UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQzYzE0ZDZhLTc4NDgtNDE5Yy04ZjgzLTMwYzM5MDNlYmNlZg==
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2970012808&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxOjUwOjI3IFBNJmhhc2hfdmFsdWU9UTUycnV0aWJXb2R6VC8wQnpBRkovdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTExYTA5ZTBhLTEwNmMtNGMzYy04NTdkLTZjNTJkNWQwMzAxNw==
 #EXTINF:-1 tvg-name="TVI Reality Big Brother - Big Brother Verão - Ligação à Casa ao vivo grátis online | KE TV" group-title="TV",TVI Reality Big Brother - Big Brother Verão - Ligação à Casa ao vivo grátis online | KE TV
-https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2969404402&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNiA3OjEyOjU0IFBNJmhhc2hfdmFsdWU9THBpbm1jdFFienRoWFNnd2lQYnFvdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTliZGEyYWUxLTkxY2EtNGUwYi1hN2M5LTZhNzE1MGJlYTIxNg==
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2970012693&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiAxOjQ3OjM3IFBNJmhhc2hfdmFsdWU9Y2ppVU9YUkhZMWd5aUorZkVsYmVUUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVmODY5M2NhLTIxNzMtNGY0Ny05NTRmLWUyYjMxNDRkMmVkNw==
 #EXTINF:-1 tvg-name="TVitapê ao vivo grátis online | KE TV" group-title="TV",TVitapê ao vivo grátis online | KE TV
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-name="TVM a televisão pública de Moçambique ao vivo grátis online | KE TV" group-title="TV",TVM a televisão pública de Moçambique ao vivo grátis online | KE TV
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+#EXTINF:-1 tvg-name="TVM Internacional ao vivo — televisão pública moçambicana ao vivo grátis online | KE TV" group-title="TV",TVM Internacional ao vivo — televisão pública moçambicana ao vivo grátis online | KE TV
+https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
 #EXTINF:-1 tvg-name="Tvt News | AM Canais" group-title="TV",Tvt News | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="TVídeoNews ao vivo grátis online | KE TV" group-title="TV",TVídeoNews ao vivo grátis online | KE TV
