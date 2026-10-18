@@ -1,8 +1,8 @@
 {
   "status": "updated",
   "discovered": 149,
-  "valid": 142,
-  "published": 385,
+  "valid": 144,
+  "published": 392,
   "sources": [
     {
       "source": "AM Canais",
@@ -25,7 +25,7 @@
     {
       "source": "VidKS",
       "pages_scanned": 220,
-      "channel_candidates": 256,
+      "channel_candidates": 250,
       "records": 0
     },
     {
