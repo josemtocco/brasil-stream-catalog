@@ -764,7 +764,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/istv",
-    "stream": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w464467996.m3u8",
+    "stream": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1021136859.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -900,7 +900,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/redetv",
-    "stream": "https://live.eu-north-1a.cf.dmcdn.net/sec2(HVC0ciLkAz_KOtOaTGGJ7RX8wKGBprKbPNT35e23wLbtfZ10QSIxFvN9i1ruEZE8Eg14DLePvclSNuOko4JGj_Z7puwDLt_BAvSdY5IDhUJQ9lvxJEe6imruuhrsxFAw)/dm/3/x8xps0s/d/live-1080.m3u8",
+    "stream": "https://live.eu-north-1a.cf.dmcdn.net/sec2(ZoZDJa4ZqOUTRULYenjn6n62raUpUKeZ9ejmf0h6u5zn2V1_un82vkh23RaR1eyP6Gl1QeKHfvoQ1bUR3uu2EfcBJ8EOSVNnrQ0ONPU8nseVsGyVAPXyzdRKwSvlrm9U)/dm/3/x8xps0s/d/live-1080.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -956,7 +956,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi",
-    "stream": "https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2970042317&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiA3Ojg6OSBQTSZoYXNoX3ZhbHVlPW5FSTVtQmpuOUFuY0JKSXk1V1NSY3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00ODFjY2ZlZi0xZmIyLTRlN2EtOGEwZC02ODgwNDczNDU1OTU=",
+    "stream": "https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2970416585&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAxMDo1OjExIFBNJmhhc2hfdmFsdWU9VmM1ZHRkZ0FZSzNqb3Y0S3pMQVJqdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTlkNDM4YjhhLTM1YzAtNGU3OS1hMTdiLWE2YTA0NmI2YTdhYw==",
     "stream_type": "hls/mpd"
   },
   {
@@ -964,7 +964,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-reality",
-    "stream": "https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2970042778&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiA3Ojc6MSBQTSZoYXNoX3ZhbHVlPTE3aElaUlFwWWs0RlhzSWNBUURtOGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03YjIxNzBiYy1kZjEwLTRhZTAtOTVjNS1lZGExMTU2N2Y4M2I=",
+    "stream": "https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2970416752&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAxMDo5OjAgUE0maGFzaF92YWx1ZT1oMFVOOWk1T2dDQ3hNU0paNEt0Tzl3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDUxYThkYTAtY2E4ZC00ZjUyLTg1MDctODEzOGY0NTlhM2Mw",
     "stream_type": "hls/mpd"
   },
   {
@@ -972,7 +972,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-ficcao",
-    "stream": "https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2970042849&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiA3OjExOjUwIFBNJmhhc2hfdmFsdWU9N255YzcraTFwUlc4VEgzTnBQcE8wQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTljZTBkM2Y5LWY5NzktNDcxNi05OWIzLWI2MTViMWRmODk4ZA==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2970416777&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAxMDo4OjI4IFBNJmhhc2hfdmFsdWU9cm9kWUpHYmNoLy9QTStITk9ZQ0pmUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI5MDMxYWU3LTc5ZjMtNDBjNy05NTA5LWRhZDFmZDlhYzBmOQ==",
     "stream_type": "hls/mpd"
   },
   {
@@ -1020,7 +1020,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tv-clube-rn",
-    "stream": "https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8",
+    "stream": "https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1987074211.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -1068,7 +1068,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-internacional-ao-vivo-portugal-para-o-mundo",
-    "stream": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2970042938&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyNiA3OjEyOjIyIFBNJmhhc2hfdmFsdWU9d2wvSFFEaTJnV2gyZWFneTlXVmVPdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTMwZDNhM2ViLWZiY2UtNDhhNy1hYjRjLTIxYjAwODAzODk4Yw==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2970417838&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNiAxMDoyMzoyMyBQTSZoYXNoX3ZhbHVlPXJRNlpVRVFjOU9nV1htdXFtd01wdmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMDNjY2JmNS1kNmViLTRmYmQtODY4OS04ZjZjNWUwNTczM2Q=",
     "stream_type": "hls/mpd"
   },
   {
@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-ber-sp-10-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTEwLTA0LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MjI4NDc1MywiaWF0IjoxNzkyMjYzMTUzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY5MjQ1NTE0LWM5Y2MtNDJkZC1hYTNjLTI5MzIyMTYzMzViNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.H6Ic_NBf-N7441i2zcntHd8GLFj0TK6Qhg5c-uo81OWMqEHPKKrLKh__0fLxgmfqC3nlff_oAWrqNJ_hu4kCucQxFWF75OVlNFEeLQO9kDbpmqloVzdcacsGP5fcre-ldQrBuF9xqAoh3Liz6id9QEkdJ9-eBT7t2_8kSjZZUVqnO1C7_GfSgmeHBoA8_qSqJpFLHxaNUsZhS0IRyqg5Anf8AZNlPaAq3x5GDDZJSy-LCOnJpqNQ8tElR_FNrlFnTrOubdbZ0azYdS5PQhLIfVhaQy2axrF5FDKgkC69Qjvsr2iVGwQyubC76fVRh8gOieJH2Q1R0EF8Sia-a6pCCA/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/96f92517-78e0-4ee7-a9c7-5e4cdccfc2b0:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
+    "stream": "https://live-ber-sp-06-39.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA2LTM5LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MjQ2MTQ2NCwiaWF0IjoxNzkyNDM5ODY0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjY5MjQ1NTE0LWM5Y2MtNDJkZC1hYTNjLTI5MzIyMTYzMzViNSIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.Fo422IEaFknJZbFIuQTU4wBmv_Tg4PiTpNW2N5CHM7PXtx62EFkV14kjdmlNmPQ3u5XKqLoSB1_rw_CzUPsuFjoma6AqYgRZBtLHhTF5xYcWhIwoDZB2c6jIm5vgsay7k6J749CFtt00cCvuWDVNRp88O3VdZPxVpKQRIDAuCd5koKWB_MfS144NVSrwp9_GjCVmYNWNMcVk81vslYDZOnSt70qSkxnu80YoKeyfSpaDf3Rr71bTBD_uXFZ2Aw-AQGCnpaQPRXpYLFYX3LbgemnpT_acar0cU7yrym3M9z2_82sw8GHrnaniCFBOJWVILaXCXDRGQ59uQC5XTeveiQ/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/110362d1-1710-43c6-9eda-084a04ba47d8:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
     "stream_type": "hls/mpd"
   },
   {
