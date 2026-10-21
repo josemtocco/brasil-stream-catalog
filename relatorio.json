@@ -1,7 +1,7 @@
 {
   "status": "updated",
   "discovered": 149,
-  "valid": 142,
+  "valid": 145,
   "published": 392,
   "sources": [
     {
@@ -25,7 +25,7 @@
     {
       "source": "VidKS",
       "pages_scanned": 220,
-      "channel_candidates": 252,
+      "channel_candidates": 258,
       "records": 0
     },
     {
