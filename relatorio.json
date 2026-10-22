@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 149,
-  "valid": 143,
+  "discovered": 150,
+  "valid": 145,
   "published": 392,
   "sources": [
     {
@@ -25,7 +25,7 @@
     {
       "source": "VidKS",
       "pages_scanned": 220,
-      "channel_candidates": 251,
+      "channel_candidates": 254,
       "records": 0
     },
     {
@@ -62,7 +62,7 @@
       "source": "Televisão.TV",
       "pages_scanned": 260,
       "channel_candidates": 391,
-      "records": 0
+      "records": 1
     }
   ]
 }
