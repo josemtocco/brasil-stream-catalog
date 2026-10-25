@@ -76,7 +76,7 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-name="CANAL 29" group-title="TV",CANAL 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal do Benja ao vivo grátis online | KE TV" group-title="TV",Canal do Benja ao vivo grátis online | KE TV
-https://www.youtube.com/watch?v=AAzrhVKW0Vc
+https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8
 #EXTINF:-1 tvg-name="CANAL EDUCAÇÃO" group-title="TV",CANAL EDUCAÇÃO
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-name="Canal Educação | AM Canais" group-title="TV",Canal Educação | AM Canais
@@ -112,7 +112,7 @@ https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/p
 #EXTINF:-1 tvg-name="CNN" group-title="TV",CNN
 https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP" group-title="TV",CNN Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP
-https://www.youtube.com/watch?v=2H06jLK6oeM
+https://www.youtube.com/watch?v=o6Z6Ax_XVsY
 #EXTINF:-1 tvg-name="CNN | AM Canais" group-title="TV",CNN | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="COMBATV" group-title="TV",COMBATV

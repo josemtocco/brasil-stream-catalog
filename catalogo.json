@@ -3116,8 +3116,8 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/canal-do-benja",
-    "stream": "https://www.youtube.com/watch?v=AAzrhVKW0Vc",
-    "stream_type": "youtube"
+    "stream": "https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8",
+    "stream_type": "hls/mpd"
   },
   {
     "name": "ge tv ao vivo grátis online | KE TV",
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=2H06jLK6oeM",
+    "stream": "https://www.youtube.com/watch?v=o6Z6Ax_XVsY",
     "stream_type": "youtube"
   },
   {
