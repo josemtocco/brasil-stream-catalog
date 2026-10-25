@@ -3148,7 +3148,15 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=5S3aG657gBI",
+    "stream": "https://www.youtube.com/watch?v=PT1elxQmzqg",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Guindaste cai sobre monotrilho e é atingido por trem na zona leste de SP · Blog TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/blog/guindaste-cai-sobre-monotrilho-e-e-atingido-por-trem-na-zona-leste-de-sp",
+    "stream": "https://www.youtube.com/watch?v=NzyBh2IbEUk",
     "stream_type": "youtube"
   }
 ]
