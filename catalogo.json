@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=bGWJPvxG7eY",
+    "stream": "https://www.youtube.com/watch?v=DGw6iKiB2MM",
     "stream_type": "youtube"
   },
   {
@@ -3157,6 +3157,22 @@
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/blog/guindaste-cai-sobre-monotrilho-e-e-atingido-por-trem-na-zona-leste-de-sp",
     "stream": "https://www.youtube.com/watch?v=NzyBh2IbEUk",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "ESPN Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/canal/espn-brasil-youtube",
+    "stream": "https://www.youtube.com/watch?v=_A2ubTofSKk",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "CBLOL ao vivo no YouTube: onde assistir · TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/canal/cblol-youtube",
+    "stream": "https://www.youtube.com/watch?v=MInhbdfSeaM",
     "stream_type": "youtube"
   }
 ]
