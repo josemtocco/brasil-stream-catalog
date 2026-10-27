@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=Fn7E6aUVKuA",
+    "stream": "https://www.youtube.com/watch?v=D-PLtEZelok",
     "stream_type": "youtube"
   },
   {
@@ -3182,5 +3182,589 @@
     "page": "https://www.tvaovivo.vip/canal/cazetv-youtube",
     "stream": "https://www.youtube.com/watch?v=dpkwMjudZME",
     "stream_type": "youtube"
+  },
+  {
+    "name": "TV Maná 1 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-mana-1",
+    "stream": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w972834415_b3048000_sleng.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Runtime Comédia ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/runtime-comedia",
+    "stream": "https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Runtime Crime ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/runtime-crime",
+    "stream": "https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Runtime Família ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/runtime-familia",
+    "stream": "https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Filmelier TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/filmelier-tv",
+    "stream": "https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Grjngo Faroeste 24 hs ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/grjngo-faroeste",
+    "stream": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Classique TV Séries 1 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/classique",
+    "stream": "https://stmv1.srvif.com/classique/classique/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Canal 2 - Tv Nova Juarez ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-nova-juarez",
+    "stream": "https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Reviva TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/reviva",
+    "stream": "https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Channel Network ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvchannel-network",
+    "stream": "https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w865876118.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Sony One Shark Tank Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sony-one-shark-tank",
+    "stream": "https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "RBTI+TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rbti-tv",
+    "stream": "https://tv.rbti.tv.br/rbti1/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "AWTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/awtv",
+    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CineBrasil TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/cinebrasil-tv",
+    "stream": "https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/chunklist_w840814520.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Cine Trianon TV Faroeste ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/cine-trianon-tv",
+    "stream": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Adrenalina Pura TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/adrenalina-pura-tv",
+    "stream": "https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Mais Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-mais-brasil",
+    "stream": "https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Clouding TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/clouding-tv",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1660153225.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Sessão Trash ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sessao-trash",
+    "stream": "https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "OS DETETIVES ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/os-detetives",
+    "stream": "https://video11.logicahost.com.br/detetives/detetives/chunklist_w711519238.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MIAMI VICE ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/miami-vice",
+    "stream": "https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w782102961.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "VRT Channel ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/vrt-channel",
+    "stream": "https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Web TV Cine ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/web-tv-cine",
+    "stream": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBC ao vivo — filmes, séries e variedades online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sbc-ao-vivo-filmes-series-e-variedades",
+    "stream": "https://video01.brascast.com/rede1250/rede1250/playlist.m3u8?hls_ctx=113b2fn8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBC Studios ao vivo — filmes e séries online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sbc-studios-ao-vivo-filmes-e-series",
+    "stream": "https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=d9829o73",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "MEGA ONE TV — filmes, séries e documentários online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/mega-one-tv",
+    "stream": "https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV ExpllosãoFM ao vivo — filmes, séries e desenhos online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-expllosaofm-ao-vivo-filmes-series-e-desenhos-online",
+    "stream": "https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w1007241353.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Retro TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/retrotv",
+    "stream": "https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1037183707.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Gospel Cartoon ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/gospelcartoon",
+    "stream": "https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Futuro ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvfuturo",
+    "stream": "https://tv03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w481092213.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Extrema Kids TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/extremakids",
+    "stream": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "3ABN Kids Network ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/3abnkids",
+    "stream": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Os Smurfs ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/smufs",
+    "stream": "https://d144py1prrd7ns.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/64606949-4993-4c1a-a921-26ec865f23b1/0.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Kuriakos Kids ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/kuriakos-kids",
+    "stream": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "JETSONS TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/jetsons-tv",
+    "stream": "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NBX TV Kids ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/nbx-tv-kids",
+    "stream": "https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=51401p08",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "BOA ESPERANÇA WEBTV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/boa-esperanca-webtv",
+    "stream": "https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Geekdot ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/geekdot",
+    "stream": "https://stream.ichibansys.com:3764/hybrid/play.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Kidmais ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-kidmais",
+    "stream": "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5k40b276",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "FOX Kids F. Rede Crianças ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/fox-kids-f-rede-criancas",
+    "stream": "https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w412316835.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "NickOnline ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/nickonline",
+    "stream": "https://x1colegal.com/hls/0/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Adesso TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/adesso-tv",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBC Kids ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sbc-kids",
+    "stream": "https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=ny30t6na",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "SBC Kids ao vivo — desenhos e conteúdo infantil online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/sbc-kids-ao-vivo-desenhos-e-conteudo-infantil",
+    "stream": "https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Maná 2 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-mana-2",
+    "stream": "https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1005453751_b3048000_sleng.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Chaves 24 Horas ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/chaves-24-horas",
+    "stream": "https://www.youtube.com/watch?v=62WDNV1iCvI",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Pica Pau ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/pica-pau",
+    "stream": "https://www.youtube.com/watch?v=_r_tCmNhT0o",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Léo o Caminhão ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/leo-o-caminhao",
+    "stream": "https://www.youtube.com/watch?v=bVIXsIlopvA",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Tom e Jerry ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tom-e-jerry",
+    "stream": "https://www.youtube.com/watch?v=40_qnf_K3FU",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "3 Palavrinhas ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/3-palavrinhas",
+    "stream": "https://www.youtube.com/watch?v=im4iblwfRrY",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Record News ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/a-lider-em-noticias",
+    "stream": "https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "BRT TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/brt-tv",
+    "stream": "https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b5251072.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TVL News ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tvl-news",
+    "stream": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w2027291951.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "News Rondônia TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/news-rondonia-tv",
+    "stream": "https://video01.logicahost.com.br/newsrondonia/newsrondonia/chunklist_w457531255.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CNN Brasil ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/cnn-brasil",
+    "stream": "https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01391-addigital-cnnbrasil-lgbr/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f38117ced415e9d48746cf128627ec159cc4f196da11d7d28c32f85ee7360d5b762e988421a12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9faab4c0d78eaf7b923c8c04fe968932a6a54d2d6641655a4e274dd8/197/1920x1080_7582265/index.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV CNB NEWS ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-cnb",
+    "stream": "https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w2052209439.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "40 Graus TV ao vivo — turismo, cultura e destinos brasileiros ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/40-graus-tv",
+    "stream": "https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "CNN Portugal ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/cnn-portugal",
+    "stream": "https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=1535712047&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDEyOjE2OjAgUE0maGFzaF92YWx1ZT1HbGJpdDAzejluek9qUEwzcmdYQmx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDZiZDkwODEtNGE5Ny00MjJhLWI3MTEtMzZhZTkxZDliMjll",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Euronews PT ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/euronews-pt",
+    "stream": "https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/9fa58b85-bcd6-475b-b6d8-7af97c72cba6/5.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Ribeirão Web News ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/ribeirao-web-news",
+    "stream": "https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Canal Gov ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/canal-gov",
+    "stream": "https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Alpha FM ao vivo — música de bom gosto online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/alpha-fm-ao-vivo-musica-de-bom-gosto-online",
+    "stream": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(QhiC6eB2QK4mgC2rQvXEOTxqnLLU_vRsg2dmO1F6EnT4EfR45gQfdhsClUsBIdrV7UDEOG3Zjfj1Y_z8zcrDxc7P3JdDae6E3ChIhgEP9KDd4qj5mi3MZU662RohIWgO)/cloud/3/x82yivf/s/live-1080.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "89 A Rádio Rock ao vivo — clássicos e novidades do rock ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/89-a-radio-rock",
+    "stream": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(QXXSKZvy7nDD7RCPR41yovzUq9pBJnlarzV0fBZURhJjcOc0Kk0WzisMwOlLcfWObcsbhP8LQ9Qjp__9nOQcKMo5_CBN49lg-x-SnMnMhlJyCKg2kFIB6r-YVcgNw2xn)/cloud/3/x7wjrui/d/live-1080.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Kiss TV ao vivo — clipes, rankings e sucessos ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/kiss-tv",
+    "stream": "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "That",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/that-s-80s-ao-vivo-hits-e-estetica-dos-anos-80",
+    "stream": "https://lightning-now80s-rakuten.amagi.tv/playlist1080p.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ROCK TV ao vivo — rock clássico e guitarras online ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rock-tv-ao-vivo-rock-classico-e-guitarras-online",
+    "stream": "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Retro Music Television ao vivo — videoclipes dos anos 60 aos 2000 ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/retro-music-television-ao-vivo-videoclipes-dos-anos-60-aos-2000",
+    "stream": "https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w844622932_b3256000.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Café Viola ao vivo — sertanejo, entrevistas e eventos ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-cafe-viola",
+    "stream": "https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Rock ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-rock",
+    "stream": "https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w267766466.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Rádio Litoral ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-radio-litoral",
+    "stream": "https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/chunklist_w1391490466.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Betelhost Sertanejo ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/betelhost-sertanejo",
+    "stream": "https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "ZOOM MUSIC ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/zoom-music",
+    "stream": "https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Yeeaah Dois ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/yeeaah-dois",
+    "stream": "https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8",
+    "stream_type": "hls/mpd"
   }
 ]

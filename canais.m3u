@@ -3,10 +3,18 @@
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="24h" group-title="TV",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-name="3 Palavrinhas ao vivo grátis online | KE TV" group-title="TV",3 Palavrinhas ao vivo grátis online | KE TV
+https://www.youtube.com/watch?v=im4iblwfRrY
+#EXTINF:-1 tvg-name="3ABN Kids Network ao vivo grátis online | KE TV" group-title="TV",3ABN Kids Network ao vivo grátis online | KE TV
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="40 Graus TV ao vivo — turismo, cultura e destinos brasileiros ao vivo grátis online | KE TV" group-title="TV",40 Graus TV ao vivo — turismo, cultura e destinos brasileiros ao vivo grátis online | KE TV
+https://40gtv-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="5-Minute Crafts" group-title="TV",5-Minute Crafts
 https://amg02051-soulpublishing-amg02051c7-plex-us-306.playouts.now.amagi.tv/playlist/amg02051-amg02051c7-306/playlist.m3u8
 #EXTINF:-1 tvg-name="7 TVs ao vivo grátis online | KE TV" group-title="TV",7 TVs ao vivo grátis online | KE TV
 https://stmv1.samcast.com.br/beatpapo/beatpapo/playlist.m3u8
+#EXTINF:-1 tvg-name="89 A Rádio Rock ao vivo — clássicos e novidades do rock ao vivo grátis online | KE TV" group-title="TV",89 A Rádio Rock ao vivo — clássicos e novidades do rock ao vivo grátis online | KE TV
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(QXXSKZvy7nDD7RCPR41yovzUq9pBJnlarzV0fBZURhJjcOc0Kk0WzisMwOlLcfWObcsbhP8LQ9Qjp__9nOQcKMo5_CBN49lg-x-SnMnMhlJyCKg2kFIB6r-YVcgNw2xn)/cloud/3/x7wjrui/d/live-1080.m3u8
 #EXTINF:-1 tvg-name="A critica | AM Canais" group-title="TV",A critica | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="ABC Brasil ao vivo grátis online | KE TV" group-title="TV",ABC Brasil ao vivo grátis online | KE TV
@@ -15,12 +23,18 @@ https://servidor2.vcrmedia.com.br/hls/canalabc_src.m3u8
 https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-name="ADBTV ao vivo grátis online | KE TV" group-title="TV",ADBTV ao vivo grátis online | KE TV
 https://live.wayone.cloud/adbtv/adbtv/chunklist_w250830643.m3u8
+#EXTINF:-1 tvg-name="Adesso TV ao vivo grátis online | KE TV" group-title="TV",Adesso TV ao vivo grátis online | KE TV
+https://cdn.live.br1.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:-1 tvg-name="Adrenalina Pura TV ao vivo grátis online | KE TV" group-title="TV",Adrenalina Pura TV ao vivo grátis online | KE TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-name="AFRICANEWS." group-title="TV",AFRICANEWS.
 https://www.youtube.com/watch?v=NQjabLGdP5g
 #EXTINF:-1 tvg-name="Aljazeera TV-Arabic" group-title="TV",Aljazeera TV-Arabic
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-name="ALMA GOSPEL TV ao vivo grátis online | KE TV" group-title="TV",ALMA GOSPEL TV ao vivo grátis online | KE TV
 https://almagospel.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Alpha FM ao vivo — música de bom gosto online ao vivo grátis online | KE TV" group-title="TV",Alpha FM ao vivo — música de bom gosto online ao vivo grátis online | KE TV
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(QhiC6eB2QK4mgC2rQvXEOTxqnLLU_vRsg2dmO1F6EnT4EfR45gQfdhsClUsBIdrV7UDEOG3Zjfj1Y_z8zcrDxc7P3JdDae6E3ChIhgEP9KDd4qj5mi3MZU662RohIWgO)/cloud/3/x82yivf/s/live-1080.m3u8
 #EXTINF:-1 tvg-name="AM Canais - TV Online Ao Vivo | tv gratis" group-title="TV",AM Canais - TV Online Ao Vivo | tv gratis
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="Amazon Sat" group-title="TV",Amazon Sat
@@ -45,6 +59,8 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w2045664646.m3u8
 https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ASSISTIR OS CANAIS NA SUA TV" group-title="TV",ASSISTIR OS CANAIS NA SUA TV
 https://www.youtube.com/watch?v=VTvh0eDKrZ4
+#EXTINF:-1 tvg-name="AWTV ao vivo grátis online | KE TV" group-title="TV",AWTV ao vivo grátis online | KE TV
+https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="AZTECA INTERNACIONAL" group-title="TV",AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-name="AZTECA UNO" group-title="TV",AZTECA UNO
@@ -61,14 +77,22 @@ https://sbtnews.maissbt.com/3.m3u8
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb543e1e7b6c678e9dd43662cef340a3f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7356db80148b61299bce8c37683f03409a5e5afba358b1ebe35a4cd13ff3b71d55c77a46e19f43c8821da689865b9a5ed370f847ccc6f588d613d78ff3de986d935c83e5911ce3e25ba18b3b94c89b73309003502c7c66c7d35d7ad35efc2a7053edebc3ff44f216dc8026801a4ad3e03cfde542fc5809caa8a16ca5bfb5de504536e4c0542104a1e8b085b9415b2cba49c39bbf404ce39f277948895dd9372737da9d9953eca664a46e5d603fb84a98b97192bb7f30a4c810c73bbd28cfd5fd9b3c0d7d620b3db65cb79662e1e4bc12a7e31c3b554148acd5008ad69916076b41828f49c753358d9bdad3915e608a571254be34821b1d3a987d2c5df53df59f0b698b0d03917a68a80f7bd314bcf007dd93f6c94a7bb9d7cc47bf48eab601ddbf428a652e560fb6bd7d0a11022d9ebe285d704ac243e5c1c3ae225a57a2a49b8cb5395230301956039cf1a721cbfca7072956900368300e537df023d966d80c4c7a5eea16c1a30471c54b611aefa93b524d7fd4af958494ddde4ba575b19aaed94ef9fcfe0855669f0ae627872e54985d0c6be4daa6a4/53/1920x1080_5129264/index.m3u8
 #EXTINF:-1 tvg-name="Bem Melhor ao vivo grátis online | KE TV" group-title="TV",Bem Melhor ao vivo grátis online | KE TV
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w1111299609.m3u8
+#EXTINF:-1 tvg-name="Betelhost Sertanejo ao vivo grátis online | KE TV" group-title="TV",Betelhost Sertanejo ao vivo grátis online | KE TV
+https://srv3.zcast.com.br/betelhostbr/betelhostbr/playlist.m3u8
+#EXTINF:-1 tvg-name="BOA ESPERANÇA WEBTV ao vivo grátis online | KE TV" group-title="TV",BOA ESPERANÇA WEBTV ao vivo grátis online | KE TV
+https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 #EXTINF:-1 tvg-name="Boa Esperança WebTV — MultiRádio Web TV" group-title="TV",Boa Esperança WebTV — MultiRádio Web TV
 https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 #EXTINF:-1 tvg-name="BR8TV | AM Canais" group-title="TV",BR8TV | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="Brazi TV ao vivo grátis online | KE TV" group-title="TV",Brazi TV ao vivo grátis online | KE TV
 https://cbtvnow.com:5866/hls/livest2024_1080p/index.m3u8
+#EXTINF:-1 tvg-name="BRT TV ao vivo grátis online | KE TV" group-title="TV",BRT TV ao vivo grátis online | KE TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/chunklist_b5251072.m3u8
 #EXTINF:-1 tvg-name="BS TV ao vivo grátis online | KE TV" group-title="TV",BS TV ao vivo grátis online | KE TV
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w614911970.m3u8
+#EXTINF:-1 tvg-name="Canal 2 - Tv Nova Juarez ao vivo grátis online | KE TV" group-title="TV",Canal 2 - Tv Nova Juarez ao vivo grátis online | KE TV
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Cultura ao vivo grátis online | KE TV" group-title="TV",Canal 2 Cultura ao vivo grátis online | KE TV
 https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
 #EXTINF:-1 tvg-name="Canal 25 ao vivo grátis online | KE TV" group-title="TV",Canal 25 ao vivo grátis online | KE TV
@@ -83,6 +107,8 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="Canal GOAT ao vivo grátis online | KE TV" group-title="TV",Canal GOAT ao vivo grátis online | KE TV
 https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
+#EXTINF:-1 tvg-name="Canal Gov ao vivo grátis online | KE TV" group-title="TV",Canal Gov ao vivo grátis online | KE TV
+https://canalgov-stream.ebc.com.br/GOV-avc1_1800000=10000.m3u8
 #EXTINF:-1 tvg-name="CANELA CLÁSICOS" group-title="TV",CANELA CLÁSICOS
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-name="CANELA KIDS" group-title="TV",CANELA KIDS
@@ -103,6 +129,8 @@ https://www.youtube.com/watch?v=MInhbdfSeaM
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-name="CHANNEL 1 ao vivo grátis online | KE TV" group-title="TV",CHANNEL 1 ao vivo grátis online | KE TV
 https://stmv2.painelvideocast.com.br/movies1/movies1/chunklist_w2115428726.m3u8
+#EXTINF:-1 tvg-name="Chaves 24 Horas ao vivo grátis online | KE TV" group-title="TV",Chaves 24 Horas ao vivo grátis online | KE TV
+https://www.youtube.com/watch?v=62WDNV1iCvI
 #EXTINF:-1 tvg-name="CHRISTMAS TV" group-title="TV",CHRISTMAS TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 #EXTINF:-1 tvg-name="Chroma TV ao vivo grátis online | KE TV" group-title="TV",Chroma TV ao vivo grátis online | KE TV
@@ -111,12 +139,24 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-name="Cine Romántico" group-title="TV",Cine Romántico
 https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-name="Cine Trianon TV Faroeste ao vivo grátis online | KE TV" group-title="TV",Cine Trianon TV Faroeste ao vivo grátis online | KE TV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-name="CineBrasil TV ao vivo grátis online | KE TV" group-title="TV",CineBrasil TV ao vivo grátis online | KE TV
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/chunklist_w840814520.m3u8
+#EXTINF:-1 tvg-name="Classique TV Séries 1 ao vivo grátis online | KE TV" group-title="TV",Classique TV Séries 1 ao vivo grátis online | KE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-name="Clic" group-title="TV",Clic
 https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-name="Clouding TV ao vivo grátis online | KE TV" group-title="TV",Clouding TV ao vivo grátis online | KE TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1660153225.m3u8
 #EXTINF:-1 tvg-name="CNN" group-title="TV",CNN
 https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnbrasil-lgbr/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Brasil ao vivo grátis online | KE TV" group-title="TV",CNN Brasil ao vivo grátis online | KE TV
+https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01391-addigital-cnnbrasil-lgbr/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f38117ced415e9d48746cf128627ec159cc4f196da11d7d28c32f85ee7360d5b762e988421a12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9faab4c0d78eaf7b923c8c04fe968932a6a54d2d6641655a4e274dd8/197/1920x1080_7582265/index.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP" group-title="TV",CNN Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP
-https://www.youtube.com/watch?v=Fn7E6aUVKuA
+https://www.youtube.com/watch?v=D-PLtEZelok
+#EXTINF:-1 tvg-name="CNN Portugal ao vivo grátis online | KE TV" group-title="TV",CNN Portugal ao vivo grátis online | KE TV
+https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=1535712047&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDEyOjE2OjAgUE0maGFzaF92YWx1ZT1HbGJpdDAzejluek9qUEwzcmdYQmx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDZiZDkwODEtNGE5Ny00MjJhLWI3MTEtMzZhZTkxZDliMjll
 #EXTINF:-1 tvg-name="CNN | AM Canais" group-title="TV",CNN | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="COMBATV" group-title="TV",COMBATV
@@ -153,12 +193,20 @@ https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
 #EXTINF:-1 tvg-name="EURO NEWS" group-title="TV",EURO NEWS
 https://da2884db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c0VuZ2xpc2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews PT ao vivo grátis online | KE TV" group-title="TV",Euronews PT ao vivo grátis online | KE TV
+https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/9fa58b85-bcd6-475b-b6d8-7af97c72cba6/5.m3u8
+#EXTINF:-1 tvg-name="Extrema Kids TV ao vivo grátis online | KE TV" group-title="TV",Extrema Kids TV ao vivo grátis online | KE TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-name="Fala Litoral ao vivo grátis online | KE TV" group-title="TV",Fala Litoral ao vivo grátis online | KE TV
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Fifa Plus | AM Canais" group-title="TV",Fifa Plus | AM Canais
 https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmelier TV ao vivo grátis online | KE TV" group-title="TV",Filmelier TV ao vivo grátis online | KE TV
+https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-name="Fonte TV ao vivo grátis online | KE TV" group-title="TV",Fonte TV ao vivo grátis online | KE TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1723703555.m3u8
+#EXTINF:-1 tvg-name="FOX Kids F. Rede Crianças ao vivo grátis online | KE TV" group-title="TV",FOX Kids F. Rede Crianças ao vivo grátis online | KE TV
+https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w412316835.m3u8
 #EXTINF:-1 tvg-name="FRANCE 24 ESPAÑOL" group-title="TV",FRANCE 24 ESPAÑOL
 https://www.youtube.com/watch?v=Y-IlMeCCtIg
 #EXTINF:-1 tvg-name="Free TV Drama" group-title="TV",Free TV Drama
@@ -173,14 +221,20 @@ https://sbtnews.maissbt.com/3.m3u8
 https://stream.castr.com/68ef8ef96ba67f8647751c77/live_834ad9a0ae7611f0b539a32ce06e103f/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="ge tv ao vivo grátis online | KE TV" group-title="TV",ge tv ao vivo grátis online | KE TV
 https://www.youtube.com/watch?v=qAJbW7q7Ghg
+#EXTINF:-1 tvg-name="Geekdot ao vivo grátis online | KE TV" group-title="TV",Geekdot ao vivo grátis online | KE TV
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="GLN TV" group-title="TV",GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-name="Gospel Cartoon ao vivo grátis online | KE TV" group-title="TV",Gospel Cartoon ao vivo grátis online | KE TV
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-name="Gospel Movie Television ao vivo grátis online | KE TV" group-title="TV",Gospel Movie Television ao vivo grátis online | KE TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-name="GRJNGO - Filmes de Faroeste" group-title="TV",GRJNGO - Filmes de Faroeste
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="GRJNGO - Películas Del Oeste" group-title="TV",GRJNGO - Películas Del Oeste
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Grjngo Faroeste 24 hs ao vivo grátis online | KE TV" group-title="TV",Grjngo Faroeste 24 hs ao vivo grátis online | KE TV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-name="Guindaste cai sobre monotrilho e é atingido por trem na zona leste de SP · Blog TVAOVIVO.VIP" group-title="TV",Guindaste cai sobre monotrilho e é atingido por trem na zona leste de SP · Blog TVAOVIVO.VIP
 https://www.youtube.com/watch?v=NzyBh2IbEUk
 #EXTINF:-1 tvg-name="Hardcore Pawn ao vivo — negociações, conflitos e loja de penhores ao vivo grátis online | KE TV" group-title="TV",Hardcore Pawn ao vivo — negociações, conflitos e loja de penhores ao vivo grátis online | KE TV
@@ -211,6 +265,8 @@ https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1021136859.m3u8
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Deportes" group-title="TV",ITV Deportes
 https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name="JETSONS TV ao vivo grátis online | KE TV" group-title="TV",JETSONS TV ao vivo grátis online | KE TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 #EXTINF:-1 tvg-name="JOVEM PAN NEWS | AM Canais" group-title="TV",JOVEM PAN NEWS | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="Já Viu TV Play ao vivo grátis online | KE TV" group-title="TV",Já Viu TV Play ao vivo grátis online | KE TV
@@ -219,6 +275,10 @@ https://stmv5.samcast.com.br/val4355/val4355/playlist.m3u8
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KE TV Filmes Online ao vivo grátis online | KE TV" group-title="TV",KE TV Filmes Online ao vivo grátis online | KE TV
 https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
+#EXTINF:-1 tvg-name="Kiss TV ao vivo — clipes, rankings e sucessos ao vivo grátis online | KE TV" group-title="TV",Kiss TV ao vivo — clipes, rankings e sucessos ao vivo grátis online | KE TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF:-1 tvg-name="Kuriakos Kids ao vivo grátis online | KE TV" group-title="TV",Kuriakos Kids ao vivo grátis online | KE TV
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Ldnews TV — MultiRádio Web TV" group-title="TV",Ldnews TV — MultiRádio Web TV
 https://stmv3.voxtvhd.com.br/leandroenzo/leandroenzo/playlist.m3u8
 #EXTINF:-1 tvg-name="LONE STAR" group-title="TV",LONE STAR
@@ -227,6 +287,8 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="LUCAS TV — MultiRádio Web TV" group-title="TV",LUCAS TV — MultiRádio Web TV
 https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-name="Léo o Caminhão ao vivo grátis online | KE TV" group-title="TV",Léo o Caminhão ao vivo grátis online | KE TV
+https://www.youtube.com/watch?v=bVIXsIlopvA
 #EXTINF:-1 tvg-name="M2O TV" group-title="TV",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-name="MASPER TV ao vivo grátis online | KE TV" group-title="TV",MASPER TV ao vivo grátis online | KE TV
@@ -239,6 +301,8 @@ https://amg00627-amg00627c9-runtime-latam-2613.playouts.now.amagi.tv/ts-us-w2-n1
 https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
 #EXTINF:-1 tvg-name="MAVTV BRASIL ao vivo grátis online | KE TV" group-title="TV",MAVTV BRASIL ao vivo grátis online | KE TV
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 tvg-name="MEGA ONE TV — filmes, séries e documentários online ao vivo grátis online | KE TV" group-title="TV",MEGA ONE TV — filmes, séries e documentários online ao vivo grátis online | KE TV
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Mega TV | AM Canais" group-title="TV",Mega TV | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="Meio Norte | AM Canais" group-title="TV",Meio Norte | AM Canais
@@ -251,6 +315,8 @@ https://www.youtube.com/watch?v=_9qqsuhw6Ao
 https://59ec5453559f0.streamlock.net/JennyLive/_definst_/JennyLive/chunklist_w299580360.m3u8
 #EXTINF:-1 tvg-name="MIAMI TV LATINO" group-title="TV",MIAMI TV LATINO
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
+#EXTINF:-1 tvg-name="MIAMI VICE ao vivo grátis online | KE TV" group-title="TV",MIAMI VICE ao vivo grátis online | KE TV
+https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w782102961.m3u8
 #EXTINF:-1 tvg-name="MNML" group-title="TV",MNML
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1 tvg-name="Motorvision TV" group-title="TV",Motorvision TV
@@ -275,8 +341,14 @@ https://sbtnews.maissbt.com/3.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-name="Nature Time Brasil ao vivo grátis online | KE TV" group-title="TV",Nature Time Brasil ao vivo grátis online | KE TV
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+#EXTINF:-1 tvg-name="NBX TV Kids ao vivo grátis online | KE TV" group-title="TV",NBX TV Kids ao vivo grátis online | KE TV
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=51401p08
+#EXTINF:-1 tvg-name="News Rondônia TV ao vivo grátis online | KE TV" group-title="TV",News Rondônia TV ao vivo grátis online | KE TV
+https://video01.logicahost.com.br/newsrondonia/newsrondonia/chunklist_w457531255.m3u8
 #EXTINF:-1 tvg-name="NHK WORLD" group-title="TV",NHK WORLD
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_3000000=29-mp4a_380800_jpn=28.m3u8
+#EXTINF:-1 tvg-name="NickOnline ao vivo grátis online | KE TV" group-title="TV",NickOnline ao vivo grátis online | KE TV
+https://x1colegal.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="NickOnline — MultiRádio Web TV" group-title="TV",NickOnline — MultiRádio Web TV
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="NickToons Brasil ao vivo grátis online | KE TV" group-title="TV",NickToons Brasil ao vivo grátis online | KE TV
@@ -289,6 +361,10 @@ https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-name="NOVELISIMA" group-title="TV",NOVELISIMA
 https://cis-no-es.otteravision.com/cis/no_es/no_es_720p_high.m3u8
+#EXTINF:-1 tvg-name="OS DETETIVES ao vivo grátis online | KE TV" group-title="TV",OS DETETIVES ao vivo grátis online | KE TV
+https://video11.logicahost.com.br/detetives/detetives/chunklist_w711519238.m3u8
+#EXTINF:-1 tvg-name="Os Smurfs ao vivo grátis online | KE TV" group-title="TV",Os Smurfs ao vivo grátis online | KE TV
+https://d144py1prrd7ns.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/64606949-4993-4c1a-a921-26ec865f23b1/0.m3u8
 #EXTINF:-1 tvg-name="Otaku Sign TV ao vivo grátis online | KE TV" group-title="TV",Otaku Sign TV ao vivo grátis online | KE TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 tvg-name="PAI ETERNO" group-title="TV",PAI ETERNO
@@ -301,6 +377,8 @@ https://www.youtube.com/watch?v=9BJrPhR9CoA
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Petlovers TV ao vivo grátis online | KE TV" group-title="TV",Petlovers TV ao vivo grátis online | KE TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pica Pau ao vivo grátis online | KE TV" group-title="TV",Pica Pau ao vivo grátis online | KE TV
+https://www.youtube.com/watch?v=_r_tCmNhT0o
 #EXTINF:-1 tvg-name="PLAYLIST" group-title="TV",PLAYLIST
 https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI2IDY6OToyNSBQTSZoYXNoX3ZhbHVlPXNnN2ZCdXN1V1VEMFBvb3RwVkJodGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03NThkNDI3MC1jZWViLTQ5ZjgtYmFlNy1lYWVhZDcyZDMzMjc=
 #EXTINF:-1 tvg-name="playTV | AM Canais" group-title="TV",playTV | AM Canais
@@ -327,6 +405,8 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist_w1141159919.m3u8
 https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:-1 tvg-name="Rakuten TV Family (pt)" group-title="TV",Rakuten TV Family (pt)
 https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:-1 tvg-name="RBTI+TV ao vivo grátis online | KE TV" group-title="TV",RBTI+TV ao vivo grátis online | KE TV
+https://tv.rbti.tv.br/rbti1/index.m3u8
 #EXTINF:-1 tvg-name="RBTV" group-title="TV",RBTV
 https://redebrasileira.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="RCN MÁS" group-title="TV",RCN MÁS
@@ -334,6 +414,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Real Madrid TV ao vivo grátis online | KE TV" group-title="TV",Real Madrid TV ao vivo grátis online | KE TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="RECORD NEWS" group-title="TV",RECORD NEWS
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-name="Record News ao vivo grátis online | KE TV" group-title="TV",Record News ao vivo grátis online | KE TV
 https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-name="Record News | AM Canais" group-title="TV",Record News | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
@@ -387,10 +469,20 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 https://live.eu-north-1a.cf.dmcdn.net/sec2(8m7eEc6iDcL-YzbAWnAPHT67TU3MrEx5Gykx3igziDBlwP6CS19qdjmg0UrUd8mXKYheqbY2PLsXY20lmYiUjfKSybdgcxar27lMOqQK-NpinEsjlT6OBjyth7_as1rq)/dm/3/x8xps0s/d/live-1080.m3u8
 #EXTINF:-1 tvg-name="Reisen Clube TV ao vivo grátis online | KE TV" group-title="TV",Reisen Clube TV ao vivo grátis online | KE TV
 https://pop.uniquetv.com.br/hls/reisenclubetv.m3u8
+#EXTINF:-1 tvg-name="Retro Music Television ao vivo — videoclipes dos anos 60 aos 2000 ao vivo grátis online | KE TV" group-title="TV",Retro Music Television ao vivo — videoclipes dos anos 60 aos 2000 ao vivo grátis online | KE TV
+https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/chunklist_w844622932_b3256000.m3u8
 #EXTINF:-1 tvg-name="RETRO PLUS" group-title="TV",RETRO PLUS
 https://tls-cl.cdnz.cl/retroplustvuno/live/player.m3u8
+#EXTINF:-1 tvg-name="Retro TV ao vivo grátis online | KE TV" group-title="TV",Retro TV ao vivo grátis online | KE TV
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1037183707.m3u8
+#EXTINF:-1 tvg-name="Reviva TV ao vivo grátis online | KE TV" group-title="TV",Reviva TV ao vivo grátis online | KE TV
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ribeirão Web News ao vivo grátis online | KE TV" group-title="TV",Ribeirão Web News ao vivo grátis online | KE TV
+https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
 #EXTINF:-1 tvg-name="RIT TV ao vivo grátis online | KE TV" group-title="TV",RIT TV ao vivo grátis online | KE TV
 https://stream.ecast.com.br/rit-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ROCK TV ao vivo — rock clássico e guitarras online ao vivo grátis online | KE TV" group-title="TV",ROCK TV ao vivo — rock clássico e guitarras online ao vivo grátis online | KE TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 #EXTINF:-1 tvg-name="RS Play TV ao vivo grátis online | KE TV" group-title="TV",RS Play TV ao vivo grátis online | KE TV
 https://tv03.zas.media:1936/rsplay/rsplay/chunklist_w42821153.m3u8
 #EXTINF:-1 tvg-name="RS Sports News 2 ao vivo grátis online | KE TV" group-title="TV",RS Sports News 2 ao vivo grátis online | KE TV
@@ -411,6 +503,12 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="Runtime Ação ao vivo grátis online | KE TV" group-title="TV",Runtime Ação ao vivo grátis online | KE TV
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-name="Runtime Comédia ao vivo grátis online | KE TV" group-title="TV",Runtime Comédia ao vivo grátis online | KE TV
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1 tvg-name="Runtime Crime ao vivo grátis online | KE TV" group-title="TV",Runtime Crime ao vivo grátis online | KE TV
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1 tvg-name="Runtime Família ao vivo grátis online | KE TV" group-title="TV",Runtime Família ao vivo grátis online | KE TV
+https://run-rufb.otteravision.com/run/rufb/rufb_720.m3u8
 #EXTINF:-1 tvg-name="RUNTIME TV : ACCIÓN" group-title="TV",RUNTIME TV : ACCIÓN
 https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8
 #EXTINF:-1 tvg-name="RUNTIME TV : ANA Y LOS 7" group-title="TV",RUNTIME TV : ANA Y LOS 7
@@ -465,6 +563,14 @@ https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 #EXTINF:-1 tvg-name="Rádio e Tv Explosãofm — MultiRádio Web TV" group-title="TV",Rádio e Tv Explosãofm — MultiRádio Web TV
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
+#EXTINF:-1 tvg-name="SBC ao vivo — filmes, séries e variedades online ao vivo grátis online | KE TV" group-title="TV",SBC ao vivo — filmes, séries e variedades online ao vivo grátis online | KE TV
+https://video01.brascast.com/rede1250/rede1250/playlist.m3u8?hls_ctx=113b2fn8
+#EXTINF:-1 tvg-name="SBC Kids ao vivo grátis online | KE TV" group-title="TV",SBC Kids ao vivo grátis online | KE TV
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=ny30t6na
+#EXTINF:-1 tvg-name="SBC Kids ao vivo — desenhos e conteúdo infantil online ao vivo grátis online | KE TV" group-title="TV",SBC Kids ao vivo — desenhos e conteúdo infantil online ao vivo grátis online | KE TV
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok
+#EXTINF:-1 tvg-name="SBC Studios ao vivo — filmes e séries online ao vivo grátis online | KE TV" group-title="TV",SBC Studios ao vivo — filmes e séries online ao vivo grátis online | KE TV
+https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=d9829o73
 #EXTINF:-1 tvg-name="SBT Interior SP ao vivo grátis online | KE TV" group-title="TV",SBT Interior SP ao vivo grátis online | KE TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="SBT News" group-title="TV",SBT News
@@ -479,6 +585,8 @@ https://sbtnews.maissbt.com/3.m3u8
 https://stmv2.samcast.com.br/semeartv/semeartv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sertão TV ao vivo grátis online | KE TV" group-title="TV",Sertão TV ao vivo grátis online | KE TV
 https://stmv8.samcast.com.br/tvsertaonet/tvsertaonet/playlist.m3u8
+#EXTINF:-1 tvg-name="Sessão Trash ao vivo grátis online | KE TV" group-title="TV",Sessão Trash ao vivo grátis online | KE TV
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="SFT Combat ao vivo grátis online | KE TV" group-title="TV",SFT Combat ao vivo grátis online | KE TV
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 #EXTINF:-1 tvg-name="SGC Tv - Rede TV Rondônia ao vivo grátis online | KE TV" group-title="TV",SGC Tv - Rede TV Rondônia ao vivo grátis online | KE TV
@@ -495,6 +603,8 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 #EXTINF:-1 tvg-name="SONY ONE SHARK TANK BRASIL" group-title="TV",SONY ONE SHARK TANK BRASIL
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony One Shark Tank Brasil ao vivo grátis online | KE TV" group-title="TV",Sony One Shark Tank Brasil ao vivo grátis online | KE TV
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="SPARK TV LUZ E AMOR ao vivo grátis online | KE TV" group-title="TV",SPARK TV LUZ E AMOR ao vivo grátis online | KE TV
 https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-name="SportyNet ao vivo grátis online | KE TV" group-title="TV",SportyNet ao vivo grátis online | KE TV
@@ -543,6 +653,8 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-name="TELESUR" group-title="TV",TELESUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-name="That" group-title="TV",That
+https://lightning-now80s-rakuten.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-name="That's 70's" group-title="TV",That's 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-name="That's 80s" group-title="TV",That's 80s
@@ -557,6 +669,8 @@ https://www.youtube.com/watch?v=-0_HchzVLe4
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="TODO CINE" group-title="TV",TODO CINE
 https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+#EXTINF:-1 tvg-name="Tom e Jerry ao vivo grátis online | KE TV" group-title="TV",Tom e Jerry ao vivo grátis online | KE TV
+https://www.youtube.com/watch?v=40_qnf_K3FU
 #EXTINF:-1 tvg-name="Toon Goggles" group-title="TV",Toon Goggles
 https://tg-tg-br.otteravision.com/tg/tg_br/tg_br_720.m3u8
 #EXTINF:-1 tvg-name="TOP MIX TV GOSPEL ao vivo grátis online | KE TV" group-title="TV",TOP MIX TV GOSPEL ao vivo grátis online | KE TV
@@ -597,18 +711,24 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w915207515.m3u8
 #EXTINF:-1 tvg-name="TV Brusque ao vivo grátis online | KE TV" group-title="TV",TV Brusque ao vivo grátis online | KE TV
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/rodrigotvbrusque.com.br/chunklist_w2106695691.m3u8
+#EXTINF:-1 tvg-name="TV Café Viola ao vivo — sertanejo, entrevistas e eventos ao vivo grátis online | KE TV" group-title="TV",TV Café Viola ao vivo — sertanejo, entrevistas e eventos ao vivo grátis online | KE TV
+https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Capital ao vivo grátis online | KE TV" group-title="TV",TV Capital ao vivo grátis online | KE TV
 https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CARAVELAS" group-title="TV",TV CARAVELAS
 https://video09.logicahost.com.br/tvcaravelas/tvcaravelas/chunklist_w267220577.m3u8
 #EXTINF:-1 tvg-name="TV CEI" group-title="TV",TV CEI
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Channel Network ao vivo grátis online | KE TV" group-title="TV",TV Channel Network ao vivo grátis online | KE TV
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w865876118.m3u8
 #EXTINF:-1 tvg-name="Tv cidade verde Cuiabá ao vivo grátis online | KE TV" group-title="TV",Tv cidade verde Cuiabá ao vivo grátis online | KE TV
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-name="TV Clube RN ao vivo grátis online | KE TV" group-title="TV",TV Clube RN ao vivo grátis online | KE TV
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w1987074211.m3u8
 #EXTINF:-1 tvg-name="Tv Clássicos ao vivo grátis online | KE TV" group-title="TV",Tv Clássicos ao vivo grátis online | KE TV
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/chunklist_w103253687.m3u8
+#EXTINF:-1 tvg-name="TV CNB NEWS ao vivo grátis online | KE TV" group-title="TV",TV CNB NEWS ao vivo grátis online | KE TV
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist_w2052209439.m3u8
 #EXTINF:-1 tvg-name="TV Conexão ao vivo grátis online | KE TV" group-title="TV",TV Conexão ao vivo grátis online | KE TV
 https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w146401506.m3u8
 #EXTINF:-1 tvg-name="TV CONEXÃO CELESTIAL ao vivo grátis online | KE TV" group-title="TV",TV CONEXÃO CELESTIAL ao vivo grátis online | KE TV
@@ -625,8 +745,12 @@ https://video01.brascast.com/paulispar7372/paulispar7372/playlist.m3u8?hls_ctx=d
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-name="TV Evangelizar" group-title="TV",TV Evangelizar
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-name="TV ExpllosãoFM ao vivo — filmes, séries e desenhos online ao vivo grátis online | KE TV" group-title="TV",TV ExpllosãoFM ao vivo — filmes, séries e desenhos online ao vivo grátis online | KE TV
+https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w1007241353.m3u8
 #EXTINF:-1 tvg-name="TV Feliz ao vivo grátis online | KE TV" group-title="TV",TV Feliz ao vivo grátis online | KE TV
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w1091223975.m3u8
+#EXTINF:-1 tvg-name="TV Futuro ao vivo grátis online | KE TV" group-title="TV",TV Futuro ao vivo grátis online | KE TV
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w481092213.m3u8
 #EXTINF:-1 tvg-name="TV Gazeta ao vivo grátis online | KE TV" group-title="TV",TV Gazeta ao vivo grátis online | KE TV
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
 #EXTINF:-1 tvg-name="TV Gazin | AM Canais" group-title="TV",TV Gazin | AM Canais
@@ -661,12 +785,20 @@ https://stmv4.voxtvhd.com.br/apostoloroberto/apostoloroberto/playlist.m3u8
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-name="TV Jovem Pan News ao vivo grátis online | KE TV" group-title="TV",TV Jovem Pan News ao vivo grátis online | KE TV
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-name="TV Kidmais ao vivo grátis online | KE TV" group-title="TV",TV Kidmais ao vivo grátis online | KE TV
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=5k40b276
 #EXTINF:-1 tvg-name="TV Loading | AM Canais" group-title="TV",TV Loading | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-name="TV Mais Brasil ao vivo grátis online | KE TV" group-title="TV",TV Mais Brasil ao vivo grátis online | KE TV
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Mais Pet ao vivo grátis online | KE TV" group-title="TV",TV Mais Pet ao vivo grátis online | KE TV
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Manchete ao vivo grátis online | KE TV" group-title="TV",TV Manchete ao vivo grátis online | KE TV
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Maná 1 ao vivo grátis online | KE TV" group-title="TV",TV Maná 1 ao vivo grátis online | KE TV
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w972834415_b3048000_sleng.m3u8
+#EXTINF:-1 tvg-name="TV Maná 2 ao vivo grátis online | KE TV" group-title="TV",TV Maná 2 ao vivo grátis online | KE TV
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w1005453751_b3048000_sleng.m3u8
 #EXTINF:-1 tvg-name="TV Maná Brasil ao vivo grátis online | KE TV" group-title="TV",TV Maná Brasil ao vivo grátis online | KE TV
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w1788032998_b3048000_sleng.m3u8
 #EXTINF:-1 tvg-name="TV Maná Moçambique ao vivo — evangelho e programação cristã ao vivo grátis online | KE TV" group-title="TV",TV Maná Moçambique ao vivo — evangelho e programação cristã ao vivo grátis online | KE TV
@@ -699,6 +831,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w248715909.m3u8
 #EXTINF:-1 tvg-name="TV Rio Preto ao vivo grátis online | KE TV" group-title="TV",TV Rio Preto ao vivo grátis online | KE TV
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w32033332.m3u8
+#EXTINF:-1 tvg-name="TV Rock ao vivo grátis online | KE TV" group-title="TV",TV Rock ao vivo grátis online | KE TV
+https://video03.logicahost.com.br/tvrockhd/tvrockhd/chunklist_w267766466.m3u8
+#EXTINF:-1 tvg-name="Tv Rádio Litoral ao vivo grátis online | KE TV" group-title="TV",Tv Rádio Litoral ao vivo grátis online | KE TV
+https://video08.logicahost.com.br/tvradiolitoral/tvradiolitoral/chunklist_w1391490466.m3u8
 #EXTINF:-1 tvg-name="Tv Seculo 21 | AM Canais" group-title="TV",Tv Seculo 21 | AM Canais
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
 #EXTINF:-1 tvg-name="Tv Singular — MultiRádio Web TV" group-title="TV",Tv Singular — MultiRádio Web TV
@@ -735,6 +871,8 @@ https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_se
 https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2971005399&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNiA1OjQ4OjQyIFBNJmhhc2hfdmFsdWU9QjJVWkZ5VTlad01zVks3c3U4VjRIQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAxZjlhNTFkLTQ2YzktNDJmZS04YzExLTQ1NzYxM2EwNjA3Mw==
 #EXTINF:-1 tvg-name="TVitapê ao vivo grátis online | KE TV" group-title="TV",TVitapê ao vivo grátis online | KE TV
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-name="TVL News ao vivo grátis online | KE TV" group-title="TV",TVL News ao vivo grátis online | KE TV
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w2027291951.m3u8
 #EXTINF:-1 tvg-name="TVM a televisão pública de Moçambique ao vivo grátis online | KE TV" group-title="TV",TVM a televisão pública de Moçambique ao vivo grátis online | KE TV
 https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
 #EXTINF:-1 tvg-name="TVM Internacional ao vivo — televisão pública moçambicana ao vivo grátis online | KE TV" group-title="TV",TVM Internacional ao vivo — televisão pública moçambicana ao vivo grátis online | KE TV
@@ -769,8 +907,12 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/10
 https://stmv1.samcast.com.br/voxtv/voxtv/playlist.m3u8
 #EXTINF:-1 tvg-name="VRT CHANNEL" group-title="TV",VRT CHANNEL
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="VRT Channel ao vivo grátis online | KE TV" group-title="TV",VRT Channel ao vivo grátis online | KE TV
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="W1 WEBTV" group-title="TV",W1 WEBTV
 https://stmv5.samcast.com.br/oscarwagnerdesouza1083/oscarwagnerdesouza1083/playlist.m3u8
+#EXTINF:-1 tvg-name="Web TV Cine ao vivo grátis online | KE TV" group-title="TV",Web TV Cine ao vivo grátis online | KE TV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-name="Web TVs ao vivo | MultiRádio" group-title="TV",Web TVs ao vivo | MultiRádio
 https://stmv3.liveplushd.com.br/mstvweb/mstvweb/playlist.m3u8
 #EXTINF:-1 tvg-name="WILDEARTH ao vivo grátis online | KE TV" group-title="TV",WILDEARTH ao vivo grátis online | KE TV
@@ -787,11 +929,15 @@ https://www.youtube.com/watch?v=Qx-kceuil5o
 https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
 #EXTINF:-1 tvg-name="Yeeaah ao vivo grátis online | KE TV" group-title="TV",Yeeaah ao vivo grátis online | KE TV
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-name="Yeeaah Dois ao vivo grátis online | KE TV" group-title="TV",Yeeaah Dois ao vivo grátis online | KE TV
+https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Ype Tv | AM Canais" group-title="TV",Ype Tv | AM Canais
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="Z NATION(es)" group-title="TV",Z NATION(es)
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889482
 #EXTINF:-1 tvg-name="Z NATION(pt)" group-title="TV",Z NATION(pt)
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889478
+#EXTINF:-1 tvg-name="ZOOM MUSIC ao vivo grátis online | KE TV" group-title="TV",ZOOM MUSIC ao vivo grátis online | KE TV
+https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 #EXTINF:-1 tvg-name="🚨 ELEIÇÕES 2026 AO VIVO: HORÁRIO, COLA E O QUE PODE E NÃO PODE NAS URNAS | CNN BRASIL — CNN Brasil" group-title="TV",🚨 ELEIÇÕES 2026 AO VIVO: HORÁRIO, COLA E O QUE PODE E NÃO PODE NAS URNAS | CNN BRASIL — CNN Brasil
 https://www.youtube.com/watch?v=tmYUXGeKzr8
