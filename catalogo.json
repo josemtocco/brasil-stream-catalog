@@ -316,7 +316,7 @@
     "category": "TV",
     "source": "MultiRádio",
     "page": "https://multiradio.com.br/webtv/tv-nova-geracao",
-    "stream": "https://stmv2.voxtvhd.com.br/jose6835/jose6835/playlist.m3u8",
+    "stream": "https://stmv5.voxtvhd.com.br/paulinho6909/paulinho6909/playlist.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=D-PLtEZelok",
+    "stream": "https://www.youtube.com/watch?v=af0Zwng71VI",
     "stream_type": "youtube"
   },
   {
