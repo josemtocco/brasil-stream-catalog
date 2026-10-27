@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=DGw6iKiB2MM",
+    "stream": "https://www.youtube.com/watch?v=zuMGHiPEOr4",
     "stream_type": "youtube"
   },
   {
@@ -3173,6 +3173,14 @@
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cblol-youtube",
     "stream": "https://www.youtube.com/watch?v=MInhbdfSeaM",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "CazéTV ao vivo no YouTube: onde assistir · TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/canal/cazetv-youtube",
+    "stream": "https://www.youtube.com/watch?v=dpkwMjudZME",
     "stream_type": "youtube"
   }
 ]

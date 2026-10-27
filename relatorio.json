@@ -1,8 +1,8 @@
 {
   "status": "updated",
-  "discovered": 155,
-  "valid": 150,
-  "published": 397,
+  "discovered": 154,
+  "valid": 149,
+  "published": 398,
   "sources": [
     {
       "source": "AM Canais",
@@ -38,7 +38,7 @@
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
       "channel_candidates": 186,
-      "records": 7
+      "records": 6
     },
     {
       "source": "FotoDicas TV",
