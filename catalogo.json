@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=McwaYFPaCRo",
+    "stream": "https://www.youtube.com/watch?v=ZAptVDXclkk",
     "stream_type": "youtube"
   },
   {
@@ -3172,7 +3172,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cblol-youtube",
-    "stream": "https://www.youtube.com/watch?v=MInhbdfSeaM",
+    "stream": "https://www.youtube.com/watch?v=5_UM9uK-p9M",
     "stream_type": "youtube"
   },
   {
@@ -3765,6 +3765,14 @@
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/yeeaah-dois",
     "stream": "https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "AYM SPORTS",
+    "category": "TV",
+    "source": "IPGO Web TV",
+    "page": "https://ipgotv.net.br/tv/tvext/aym-sports",
+    "stream": "https://amg01602-amg01602c3-canelatv-international-8324.playouts.now.amagi.tv/playlist1080p.m3u8",
     "stream_type": "hls/mpd"
   }
 ]

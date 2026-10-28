@@ -1,8 +1,8 @@
 {
   "status": "updated",
-  "discovered": 137,
-  "valid": 132,
-  "published": 471,
+  "discovered": 340,
+  "valid": 312,
+  "published": 472,
   "sources": [
     {
       "source": "AM Canais",
@@ -14,7 +14,7 @@
       "source": "KE TV",
       "pages_scanned": 22,
       "channel_candidates": 500,
-      "records": 131
+      "records": 128
     },
     {
       "source": "CXTV",
@@ -38,7 +38,7 @@
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
       "channel_candidates": 186,
-      "records": 5
+      "records": 6
     },
     {
       "source": "FotoDicas TV",
@@ -48,15 +48,15 @@
     },
     {
       "source": "IPGO Web TV",
-      "pages_scanned": 1,
-      "channel_candidates": 0,
-      "records": 0
+      "pages_scanned": 160,
+      "channel_candidates": 372,
+      "records": 189
     },
     {
       "source": "MultiRádio",
-      "pages_scanned": 1,
-      "channel_candidates": 0,
-      "records": 0
+      "pages_scanned": 31,
+      "channel_candidates": 30,
+      "records": 16
     },
     {
       "source": "Televisão.TV",
