@@ -900,7 +900,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/redetv",
-    "stream": "https://live.eu-north-1a.cf.dmcdn.net/sec2(8m7eEc6iDcL-YzbAWnAPHT67TU3MrEx5Gykx3igziDBlwP6CS19qdjmg0UrUd8mXKYheqbY2PLsXY20lmYiUjfKSybdgcxar27lMOqQK-NpinEsjlT6OBjyth7_as1rq)/dm/3/x8xps0s/d/live-1080.m3u8",
+    "stream": "https://live.eu-north-1b.cf.dmcdn.net/sec2(kxRQWG0Fp-F70cmQuwIj0ctta2t8AT40khDP-pep9IfjWf1GTKlcYsqidS8B0R4mEnglcsbd8OoGtNFtxkndut1I-2QI5N9p1scn77hw3UYEKieBqZxYqem73x19txk-)/dm/3/x8xps0s/d/live-1080.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -964,7 +964,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-reality",
-    "stream": "https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=2971005399&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNiA1OjQ4OjQyIFBNJmhhc2hfdmFsdWU9QjJVWkZ5VTlad01zVks3c3U4VjRIQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAxZjlhNTFkLTQ2YzktNDJmZS04YzExLTQ1NzYxM2EwNjA3Mw==",
+    "stream": "https://live.eu-north-1b.cf.dmcdn.net/sec2(kxRQWG0Fp-F70cmQuwIj0ctta2t8AT40khDP-pep9IfjWf1GTKlcYsqidS8B0R4mEnglcsbd8OoGtNFtxkndut1I-2QI5N9p1scn77hw3UYEKieBqZxYqem73x19txk-)/dm/3/x8xps0s/d/live-1080.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -972,7 +972,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-ficcao",
-    "stream": "https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2971005442&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNiA1OjQ1OjQzIFBNJmhhc2hfdmFsdWU9KzFYOWpTN1pBV25USWNUZzdwZXVPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZkZTNkNzA2LTMyMzktNDY0My05YzRmLWNmMjdiYTM1OTA4Zg==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=2972540692&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAxMjozMDowIEFNJmhhc2hfdmFsdWU9YzlmbEgwMTRYZ2J4ay9ZYTZRaXlWZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFiNGUxYTk0LTNmYzEtNDEyNS05OWQxLTU3NDhhMjRiOTY0Zg==",
     "stream_type": "hls/mpd"
   },
   {
@@ -1068,7 +1068,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-internacional-ao-vivo-portugal-para-o-mundo",
-    "stream": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2971005462&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNiA1OjUxOjEzIFBNJmhhc2hfdmFsdWU9YjBVYUJJdXJoNjROdy85SEtpWVVFQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI4NTBhMDg3LWM5YzAtNDQ1MC1hNTMzLThlNTE3NzU1YjI1Ng==",
+    "stream": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=2972541154&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyNiAxMjozNjowIEFNJmhhc2hfdmFsdWU9VVBuaEYxOXBwYzlXMHljcHFxYWZ3Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdlNTUxNWZjLWIwMTMtNGVkNS05NzU3LWRkODIyNGJmYWE0Zg==",
     "stream_type": "hls/mpd"
   },
   {
@@ -1140,7 +1140,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/sic-replay",
-    "stream": "https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9a7dce4ff2dcebac2e&bpkio_sessionid=10f1e162b193-ace7fd22-677a-41fa-8ace-44ddc303f886&category=all&mm_sp",
+    "stream": "https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9a7dce4ff2dcebac2e&bpkio_sessionid=10c1e223b81-b76d450a-6178-48c5-850b-83b2816af2e9&category=all&mm_sp",
     "stream_type": "hls/mpd"
   },
   {
@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-ber-sp-10-19.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTEwLTE5LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MjgyNDM5MCwiaWF0IjoxNzkyODAyNzkwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.j4YCjM4iY_qXS5wfZZNINWV5AJugqIB8jblpzh68vSDao6NGbDRA8ri1xq7hgaL2ItzJOHZBKSR8lf46Px0FD4QkWiA1XM_L7czUstfpsZgO3HbKjVyGrydx5ZeCS0crEzZi9x4QM5L1TlnM3DH9o_y09NESWWsB-29d8QDcuxEiOmpJC0rs6thKCFq4KJnWtmnXuIMhKYqfqVUsyFYuZdH5-Q-SvtNxRFWGk66JIVSIX6lDIGiC7ArCTG5UPgXpGPTjdfxlliXbBJL9FbI-BS1RcSz2AlsryyLcoHlxSZINlRiUuK0nD_ni7oAdr5F0PTHaE1Y2GeEOolXoGpfg8w/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/90208058-1272-4082-8fab-63c323b900a1:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
+    "stream": "https://live-02.edge-vivo-sst-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS12aXZvLXNzdC1zcC52aWRlby5nbG9iby5jb20iLCJleHAiOjE3OTMzNDExNTYsImlhdCI6MTc5MzMxOTU1NiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIyMDkxNzFhMS01ZDBkLTQxODUtODU5YS00NDVhYWQ3NzdlMzQiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXNhbi9wbGF5bGlzdC5tM3U4In0.pIg3uXM8ED6kaX3D2pRcdG_7xXCuxllD3v9NiB0TOBqvTC4cswdQNSCiyW6OaFhMXZUimPwXvW-TpozMBtjWKMw9CC49m4c7CPT_3x_O-vbDPR3YAZquLxHJaTC2ugr1rg0yLKj7MRXb9yL094StZNdp_Z2vR-kx_arewQ4iDWvW9GnvEI-jyxhWncq6mvSdQJMVv53MnrALEu21C-pW_fjntb2TT5Z603qjIAvOKk0TDjtrL55XZrTqWf77CwE82Ua0BlEVdhYb8Eew30XEFIKA4frTZ-iCDIU-DyJnk0qpIhVzEvdqredBGOyZosomy2quJe-FS7sfWj2auBIpXQ/live/f(i=2)/globo-san/globo-san-audio_1=96000-video=3442944.m3u8?custom_asset_key=globo-san_hls_v1&network_code=95377733&stream_id=8131777e-96a2-4d0e-bfd6-b984f81dbf78:SCL2",
     "stream_type": "hls/mpd"
   },
   {
@@ -3076,7 +3076,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/sic-alta-definicao",
-    "stream": "https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_ge_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9aa54bbe52b1bd9b6b&bpkio_sessionid=10d1b161b48-c0f0ed3a-9cc1-4ed3-bc17-ebe07c245d5f&category=all&mm_sp",
+    "stream": "https://production-fast-sic.content.okast.tv/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_ge_video_1080p30.m3u8?bpkio_serviceid=fa2e8c4385712f9aa54bbe52b1bd9b6b&bpkio_sessionid=10e1a223b81-186cd1ff-34d4-4c9c-9601-dbe6e8080872&category=all&mm_sp",
     "stream_type": "hls/mpd"
   },
   {
@@ -3084,7 +3084,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/ulisses-tv",
-    "stream": "https://www.youtube.com/watch?v=aEhOe4hVkXg",
+    "stream": "https://www.youtube.com/watch?v=qdgX0iBW4tc",
     "stream_type": "youtube"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=HZzuCQz2ZoQ",
+    "stream": "https://www.youtube.com/watch?v=lOEqMp5IM-E",
     "stream_type": "youtube"
   },
   {
