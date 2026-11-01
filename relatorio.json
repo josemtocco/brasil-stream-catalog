@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 325,
-  "valid": 297,
+  "discovered": 153,
+  "valid": 148,
   "published": 473,
   "sources": [
     {
@@ -48,15 +48,15 @@
     },
     {
       "source": "IPGO Web TV",
-      "pages_scanned": 160,
-      "channel_candidates": 371,
-      "records": 188
-    },
-    {
-      "source": "MultiRádio",
       "pages_scanned": 1,
       "channel_candidates": 0,
       "records": 0
+    },
+    {
+      "source": "MultiRádio",
+      "pages_scanned": 31,
+      "channel_candidates": 30,
+      "records": 16
     },
     {
       "source": "Televisão.TV",
