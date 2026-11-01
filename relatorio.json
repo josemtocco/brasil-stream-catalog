@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 156,
-  "valid": 151,
+  "discovered": 325,
+  "valid": 297,
   "published": 473,
   "sources": [
     {
@@ -12,9 +12,9 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 28,
+      "pages_scanned": 22,
       "channel_candidates": 500,
-      "records": 134
+      "records": 131
     },
     {
       "source": "CXTV",
@@ -48,15 +48,15 @@
     },
     {
       "source": "IPGO Web TV",
-      "pages_scanned": 1,
-      "channel_candidates": 0,
-      "records": 0
+      "pages_scanned": 160,
+      "channel_candidates": 371,
+      "records": 188
     },
     {
       "source": "MultiRádio",
-      "pages_scanned": 31,
-      "channel_candidates": 30,
-      "records": 16
+      "pages_scanned": 1,
+      "channel_candidates": 0,
+      "records": 0
     },
     {
       "source": "Televisão.TV",

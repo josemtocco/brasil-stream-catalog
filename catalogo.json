@@ -2948,7 +2948,7 @@
     "category": "TV",
     "source": "IPGO Web TV",
     "page": "https://ipgotv.net.br/tv/tvext/rb-tv/",
-    "stream": "https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8",
+    "stream": "https://redebrasil.nuvemplay.live/hls/stream.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=PsHaq-bDh1k",
+    "stream": "https://www.youtube.com/watch?v=5icHy6QyxsI",
     "stream_type": "youtube"
   },
   {
