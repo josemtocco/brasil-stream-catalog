@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-02.edge-vivo-sst-sp.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDIuZWRnZS12aXZvLXNzdC1zcC52aWRlby5nbG9iby5jb20iLCJleHAiOjE3OTM0OTY5NDksImlhdCI6MTc5MzQ3NTM0OSwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiIyMDkxNzFhMS01ZDBkLTQxODUtODU5YS00NDVhYWQ3NzdlMzQiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXNhbi9wbGF5bGlzdC5tM3U4In0.gJeru87y3s2k_O814DAcGnvX-ni_2TFiRaLkYOLRcqa29gfvJPdx99G9BzDvTaBiir83xQwvPrrwddyRiR5mHfrmp8tYrYWSxP0uuXgEzoSdD6oJfKtd1rpoAvOtI1NLX6sRFtecsmj82HCkz53itBz988knqZbv3xFkpOURo6uSvuVPNWp4gF0I-hzqMSCCAuHcqAO1umU5MsLqslTQZ6_ERNT0zI8gQbSKHpNQ2erleTwdtmrSxNGGy4BKfyErpFaj5ziGVi6Bih4EFlzym-GgDEox22SYUFX6MJX_EbYF56U3yNPBVYmKTqF15sbaeIwj26-sYw76Z_n80ScayA/live/f(i=2)/globo-san/globo-san-audio_1=96000-video=3442944.m3u8?custom_asset_key=globo-san_hls_v1&network_code=95377733&stream_id=8ab83b49-841a-484e-ba92-dcbaaf05e76f:SCL2",
+    "stream": "https://live-ber-sp-07-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA3LTM3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MzY4MzEzMiwiaWF0IjoxNzkzNjYxNTMyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.Rvi2EkoT3ToxRO2jauFFE0o9YRa1u6k0XY_1a6vgSyrl0nKXeAkwktnp4SJ_qONpDiNinvPF3_Y9A7F_LjG-lioy61fjrnf41u1Xd9a4ogr6uATlrjb3GW9qjSFDOsWtIouiPA8l-K3akMS2AuxT_-2KAzq0ToYIDqL7hllnDyol9b8wQIY9c34nSdnmrgV9cNBJnDzxNkADDXt5SFkxqfRvOMW_n7IGXbr3_aVH3TCkBNONkopQADGE-mLm70AFYBLtt0AZyr609MiOsACSbcLoY1Cua6wGXv3em2XS9hPWr4hNdJlSZ8lMb6hltnV5-joLKZ0NZbhX2wY65-1aNw/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/97ee26ab-14cd-4372-a5d9-6753f4959ac8:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=l9mjABxr-OQ",
+    "stream": "https://www.youtube.com/watch?v=5dzFmvKHmYY",
     "stream_type": "youtube"
   },
   {
