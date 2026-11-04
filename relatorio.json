@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 153,
-  "valid": 148,
+  "discovered": 154,
+  "valid": 149,
   "published": 473,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "source": "KE TV",
       "pages_scanned": 22,
       "channel_candidates": 500,
-      "records": 131
+      "records": 132
     },
     {
       "source": "CXTV",
