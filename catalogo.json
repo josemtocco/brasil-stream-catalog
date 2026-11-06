@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-ber-sp-07-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA3LTM3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MzY4MzEzMiwiaWF0IjoxNzkzNjYxNTMyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.Rvi2EkoT3ToxRO2jauFFE0o9YRa1u6k0XY_1a6vgSyrl0nKXeAkwktnp4SJ_qONpDiNinvPF3_Y9A7F_LjG-lioy61fjrnf41u1Xd9a4ogr6uATlrjb3GW9qjSFDOsWtIouiPA8l-K3akMS2AuxT_-2KAzq0ToYIDqL7hllnDyol9b8wQIY9c34nSdnmrgV9cNBJnDzxNkADDXt5SFkxqfRvOMW_n7IGXbr3_aVH3TCkBNONkopQADGE-mLm70AFYBLtt0AZyr609MiOsACSbcLoY1Cua6wGXv3em2XS9hPWr4hNdJlSZ8lMb6hltnV5-joLKZ0NZbhX2wY65-1aNw/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/97ee26ab-14cd-4372-a5d9-6753f4959ac8:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
+    "stream": "https://live-ber-sp-07-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA3LTM3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MzkzNzUzMCwiaWF0IjoxNzkzOTE1OTMwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.c_glJOV27HbIVtkp1AtPB9MHUfP3AbPg3vfcdjM1pPXDU8bcD7pR6VhB_Knbtb21nfor509maJzUxxTkxXMlXyQhKyD5oZbBbWNNNGoME_R9t7a2yKuh1-SRjUWngtjkZbPIv3-u9w0kt07ZDwedrW4T2-7GzHurz3c-8Td_e6-DxcvqkfAj4J4LSmz_NMoW7VtEz9w2zdA-wPhZ-tDjP636Kg2hp6aTtW8dhO3Rewmi1tD_V-sXqJJwSuRgW1lu685dZnWFvpBdHbb_V_nk8zhHHQqMsF5SSdTwaY3v1dSUxSgaGxXafzz59nsxvoMBD3C-VQjN55xr0cloNpliYw/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/8d440564-428e-492c-89ad-77d11a5ef391:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=MsZ0-t_krHs",
+    "stream": "https://www.youtube.com/watch?v=Nt1J7wXWTZQ",
     "stream_type": "youtube"
   },
   {
@@ -3797,6 +3797,14 @@
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/podpah-youtube",
     "stream": "https://www.youtube.com/watch?v=Xy5gwR172tI",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Free Fire Esports Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/canal/free-fire-esports-brasil-youtube",
+    "stream": "https://www.youtube.com/watch?v=iX7Ajy_Wtkw",
     "stream_type": "youtube"
   }
 ]
