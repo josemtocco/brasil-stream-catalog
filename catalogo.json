@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=btGjpqkcmrg",
+    "stream": "https://www.youtube.com/watch?v=5vfiupTbSwM",
     "stream_type": "youtube"
   },
   {
@@ -3164,7 +3164,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/espn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=44ANLhanNDU",
+    "stream": "https://www.youtube.com/watch?v=omKjYYhht9U",
     "stream_type": "youtube"
   },
   {
@@ -3172,7 +3172,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cblol-youtube",
-    "stream": "https://www.youtube.com/watch?v=6PleA3tKr9U",
+    "stream": "https://www.youtube.com/watch?v=rNER-SrOL8U",
     "stream_type": "youtube"
   },
   {
@@ -3806,5 +3806,21 @@
     "page": "https://www.tvaovivo.vip/canal/free-fire-esports-brasil-youtube",
     "stream": "https://www.youtube.com/watch?v=Xm5bwiUirKI",
     "stream_type": "youtube"
+  },
+  {
+    "name": "Brks TV — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/brks-tv",
+    "stream": "https://stmv8.samcast.com.br/alvaro9088/alvaro9088/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Clouding TV — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/clouding-tv",
+    "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "stream_type": "hls/mpd"
   }
 ]
