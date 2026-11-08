@@ -1,6 +1,6 @@
 {
   "status": "updated",
-  "discovered": 157,
+  "discovered": 156,
   "valid": 152,
   "published": 478,
   "sources": [
@@ -38,7 +38,7 @@
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
       "channel_candidates": 186,
-      "records": 7
+      "records": 6
     },
     {
       "source": "FotoDicas TV",
