@@ -12,7 +12,7 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 20,
+      "pages_scanned": 22,
       "channel_candidates": 500,
       "records": 131
     },
@@ -42,7 +42,7 @@
     },
     {
       "source": "FotoDicas TV",
-      "pages_scanned": 35,
+      "pages_scanned": 39,
       "channel_candidates": 34,
       "records": 0
     },
