@@ -1,7 +1,7 @@
 {
   "status": "updated",
   "discovered": 155,
-  "valid": 151,
+  "valid": 150,
   "published": 478,
   "sources": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 22,
+      "pages_scanned": 20,
       "channel_candidates": 500,
       "records": 131
     },
