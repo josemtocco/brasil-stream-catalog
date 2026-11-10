@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-ber-sp-07-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA3LTM3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5MzkzNzUzMCwiaWF0IjoxNzkzOTE1OTMwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.c_glJOV27HbIVtkp1AtPB9MHUfP3AbPg3vfcdjM1pPXDU8bcD7pR6VhB_Knbtb21nfor509maJzUxxTkxXMlXyQhKyD5oZbBbWNNNGoME_R9t7a2yKuh1-SRjUWngtjkZbPIv3-u9w0kt07ZDwedrW4T2-7GzHurz3c-8Td_e6-DxcvqkfAj4J4LSmz_NMoW7VtEz9w2zdA-wPhZ-tDjP636Kg2hp6aTtW8dhO3Rewmi1tD_V-sXqJJwSuRgW1lu685dZnWFvpBdHbb_V_nk8zhHHQqMsF5SSdTwaY3v1dSUxSgaGxXafzz59nsxvoMBD3C-VQjN55xr0cloNpliYw/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/8d440564-428e-492c-89ad-77d11a5ef391:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
+    "stream": "https://live-ber-sp-14-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTE0LTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NDM1MDY3NywiaWF0IjoxNzk0MzI5MDc3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.E-pG91OD5k70IgVofm7om_xO5PBt8zcWN9buEIlBD5pGW3yZeK3oA3CTKhqeURBoymCqRHdA3m5crPCfwv38RTnr8HqWKyXIijqQGRnXnoNAKUo3qtYaldc2HU_vkJk6h6rWhvP4x-m8rF4R2OfHMRyFvDeqxEYBTeoEXzsHF_Mnkmm7KowQ60HZduGktTD2gVKOt_bnMMBRUiHSFPZ8-136-fb-3TSYCiNHOc_JvR4QDoqY1Yd-dAF8r_Kxyh2YNcle0hvFlj-wIfbqHmjG7hqTodHrLT4z6zW3no6Z8UngCcPSqo_bCNhmgiWJPKd3WnEOUtlkgXY0Ed4rDAOa3w/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/74217587-fbbd-427a-a030-ccc91c24599f:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=h-zhnsJShXE",
+    "stream": "https://www.youtube.com/watch?v=kKQH50ZLEYA",
     "stream_type": "youtube"
   },
   {
@@ -3796,7 +3796,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/podpah-youtube",
-    "stream": "https://www.youtube.com/watch?v=Xy5gwR172tI",
+    "stream": "https://www.youtube.com/watch?v=ksRMvNqFZ0s",
     "stream_type": "youtube"
   },
   {
@@ -3821,6 +3821,38 @@
     "source": "MultiRádio",
     "page": "https://multiradio.com.br/webtv/clouding-tv",
     "stream": "https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "V+ TVI ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/v-tvi",
+    "stream": "https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=455599787&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAyNiAyOjk6NyBQTSZoYXNoX3ZhbHVlPXhrdGJUR0JBbnJpcVlUZ0loS2FTZGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zNDdiNzY2Mi00MGI5LTQyODYtOWJlZi1hMjZmN2Y1NDZkYWM=",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Luzilândia ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-luzilandia-ao-vivo",
+    "stream": "https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1972936542.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Tv Unisantos ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-unisantos-ao-vivo",
+    "stream": "https://live.cdn.upx.com/7550/myStream.sdp/chunklist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Curuça ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-curuca-ao-vivo",
+    "stream": "https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8",
     "stream_type": "hls/mpd"
   }
 ]
