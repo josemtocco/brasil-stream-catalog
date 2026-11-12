@@ -12,7 +12,7 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 20,
+      "pages_scanned": 19,
       "channel_candidates": 500,
       "records": 131
     },
@@ -37,7 +37,7 @@
     {
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
-      "channel_candidates": 184,
+      "channel_candidates": 186,
       "records": 5
     },
     {
