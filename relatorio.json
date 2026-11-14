@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 155,
-  "valid": 151,
+  "discovered": 139,
+  "valid": 135,
   "published": 482,
   "sources": [
     {
@@ -30,7 +30,7 @@
     },
     {
       "source": "DM Play",
-      "pages_scanned": 9,
+      "pages_scanned": 1,
       "channel_candidates": 0,
       "records": 0
     },
@@ -38,7 +38,7 @@
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
       "channel_candidates": 186,
-      "records": 5
+      "records": 6
     },
     {
       "source": "FotoDicas TV",
@@ -55,8 +55,8 @@
     {
       "source": "MultiRádio",
       "pages_scanned": 100,
-      "channel_candidates": 67,
-      "records": 18
+      "channel_candidates": 18,
+      "records": 1
     },
     {
       "source": "Televisão.TV",
