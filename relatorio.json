@@ -1,8 +1,8 @@
 {
   "status": "updated",
-  "discovered": 157,
-  "valid": 153,
-  "published": 482,
+  "discovered": 155,
+  "valid": 151,
+  "published": 489,
   "sources": [
     {
       "source": "AM Canais",
@@ -12,7 +12,7 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 20,
+      "pages_scanned": 19,
       "channel_candidates": 500,
       "records": 131
     },
@@ -38,7 +38,7 @@
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
       "channel_candidates": 186,
-      "records": 7
+      "records": 5
     },
     {
       "source": "FotoDicas TV",
