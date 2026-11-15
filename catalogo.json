@@ -964,7 +964,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-reality",
-    "stream": "https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=463398727&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA4Ojc6NDggUE0maGFzaF92YWx1ZT1jYTZGTkxsb0pYNUJuSEZRRzR0SU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ3ZjRkY2EtNjFhNy00MDFlLWIwY2UtYzY4N2M1OTFiZDE5",
+    "stream": "https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=464413482&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3",
     "stream_type": "hls/mpd"
   },
   {
@@ -972,7 +972,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-ficcao",
-    "stream": "https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=463399566&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA4Ojc6NDggUE0maGFzaF92YWx1ZT1jYTZGTkxsb0pYNUJuSEZRRzR0SU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ3ZjRkY2EtNjFhNy00MDFlLWIwY2UtYzY4N2M1OTFiZDE5",
+    "stream": "https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=464414101&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3",
     "stream_type": "hls/mpd"
   },
   {
@@ -1068,7 +1068,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/tvi-internacional-ao-vivo-portugal-para-o-mundo",
-    "stream": "https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=463400456&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA4Ojc6NDggUE0maGFzaF92YWx1ZT1jYTZGTkxsb0pYNUJuSEZRRzR0SU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ3ZjRkY2EtNjFhNy00MDFlLWIwY2UtYzY4N2M1OTFiZDE5",
+    "stream": "https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=464414799&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3",
     "stream_type": "hls/mpd"
   },
   {
@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-ber-sp-09-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA5LTM4LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NDcyMjY4NywiaWF0IjoxNzk0NzAxMDg3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.thl8AnLfGRj6lPJpXi938OMUt1Kkt40zWSG4je1Pb6waWEMw-J7kX8dMFAf41ZmGXYTpTyDR6czrVtpXGuFKYrI3fZNTNWv9RRea2rje5MeLjoRtISiiLSl7UjnWb5NGH1afee6qn8pGWBk4Vs5joNutzgz6d5dq0fsvVU6KRweQ0Jt5euQuhlMOKc7JQp6vRZH9hjQuXbPwWIyGh3ibip1AG1PcKbIcfEsxgqYwkNmRzHV1NJ0cpny9xk5Wjoa6sVje9LJkbQrBzXk61Xw5T160TAEkamDaOim_f3Q_05z67mAeyysPcIkP_xBeX-uzf3RuxYLrbL8CSQQeq2kKbQ/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/58c7f322-9316-4e07-9a40-b3901e930af9:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
+    "stream": "https://live-ber-sp-09-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA5LTM4LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NDc4NjgwOSwiaWF0IjoxNzk0NzY1MjA5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.ZhHNw5ma6X4pMTAy_uRsdq38GiQYuF9n9AxHHqGGbEQZ3zXrEk0irRiWpOo5slkMAbxjXC5xjwIMSFn62FUc0hXAEq01OYlLrPkRPURKqfPre1nWkaPejb8ucP644Nb5JqSFCHNlCvLcs4gT0ZleXvyKx7acS3HZsaZjgSKKsIMKFHnrs-KA3VielfR8z_yrHpshsxvmTCSmsrfVyxfViBpydyAusobqM6joToU10qQ6e7cLZ7PB7zcmI2h8n2UjFTe3q-BVVD13PbUlaIvUym8GQc-EJ9PwMLADQy08GvF6pXRlmAhd2k96ZMURU450fLfrwpMcpV24JO528McRXg/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/dc5c05ae-1fa8-43c8-be77-b056ce69bf7c:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=ur5Poe6uY70",
+    "stream": "https://www.youtube.com/watch?v=6CgdToR3ozI",
     "stream_type": "youtube"
   },
   {
@@ -3828,7 +3828,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/v-tvi",
-    "stream": "https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=463398144&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTQvMjAyNiA4Ojc6NDggUE0maGFzaF92YWx1ZT1jYTZGTkxsb0pYNUJuSEZRRzR0SU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGQ3ZjRkY2EtNjFhNy00MDFlLWIwY2UtYzY4N2M1OTFiZDE5",
+    "stream": "https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=464412404&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3",
     "stream_type": "hls/mpd"
   },
   {
@@ -3910,5 +3910,21 @@
     "page": "https://www.ketv.com.br/canal/fc-web-tv",
     "stream": "https://5c483b9d1019c.streamlock.net/fcwebtv/fcwebtv/chunklist_w74868295.m3u8",
     "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Brasil Internacional ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/tv-brasil-internacional",
+    "stream": "https://www.youtube.com/watch?v=6NocD2RQQOw",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "REDE BRASIL DE COMUNICAÇÃO ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-brasil",
+    "stream": "https://www.youtube.com/watch?v=cAPD4i7mBNc",
+    "stream_type": "youtube"
   }
 ]
