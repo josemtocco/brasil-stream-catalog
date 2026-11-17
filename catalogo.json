@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-ber-sp-09-38.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA5LTM4LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NDc4NjgwOSwiaWF0IjoxNzk0NzY1MjA5LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.ZhHNw5ma6X4pMTAy_uRsdq38GiQYuF9n9AxHHqGGbEQZ3zXrEk0irRiWpOo5slkMAbxjXC5xjwIMSFn62FUc0hXAEq01OYlLrPkRPURKqfPre1nWkaPejb8ucP644Nb5JqSFCHNlCvLcs4gT0ZleXvyKx7acS3HZsaZjgSKKsIMKFHnrs-KA3VielfR8z_yrHpshsxvmTCSmsrfVyxfViBpydyAusobqM6joToU10qQ6e7cLZ7PB7zcmI2h8n2UjFTe3q-BVVD13PbUlaIvUym8GQc-EJ9PwMLADQy08GvF6pXRlmAhd2k96ZMURU450fLfrwpMcpV24JO528McRXg/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/dc5c05ae-1fa8-43c8-be77-b056ce69bf7c:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
+    "stream": "https://live-ber-sp-12-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTEyLTM2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NDk1OTM4NywiaWF0IjoxNzk0OTM3Nzg3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.c4Ao22ceucbpisgAz3tM8TEzSF6HFzpNqBe2UAEyIM_vWInstQprjjFhHupRz7i-dxH2d8NhVnHMn2yaUkGoBr0PMXWjNzzS6N97otKHPkMv0h7BuWVm4b-8mvAYd0Alq1Vuols7UqcF5ENXuyoBiwns8a2q8b_Wz8hVWU9Y6dxc6mAAFHM1SBLlyqCPpcnqGAkoOYgcv1qVq24m5r3Pn9Voi_UfaKpdWmfF7N-nok7-EF28wUdXJkDlS3caNptVG0SDGx1x5GmGrEqM-vN36mW4fvOYcXc5vuO6kUMMvzb2oobhnm4YVAEojf4bH69rGDYZv0Rt4qZr-RRZGUH8qg/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/8fb15e9c-3372-47cd-83a3-72b7a3b798be:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=ej8HTH5QYpI",
+    "stream": "https://www.youtube.com/watch?v=Nxys6FX89ak",
     "stream_type": "youtube"
   },
   {
@@ -3926,5 +3926,21 @@
     "page": "https://www.ketv.com.br/canal/rede-brasil",
     "stream": "https://www.youtube.com/watch?v=cAPD4i7mBNc",
     "stream_type": "youtube"
+  },
+  {
+    "name": "Nick WebTV — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/nick-webtv",
+    "stream": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "TV Jovem Total — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/tv-jovem-total",
+    "stream": "https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8",
+    "stream_type": "hls/mpd"
   }
 ]
