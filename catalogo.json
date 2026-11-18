@@ -3092,8 +3092,8 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/sportynet",
-    "stream": "https://www.youtube.com/watch?v=B4lsngDBPXY",
-    "stream_type": "youtube"
+    "stream": "https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8",
+    "stream_type": "hls/mpd"
   },
   {
     "name": "Xsports ao vivo grátis online | KE TV",
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=fsqQKU6g6_M",
+    "stream": "https://www.youtube.com/watch?v=zPEOk0-hkeU",
     "stream_type": "youtube"
   },
   {
@@ -3949,6 +3949,22 @@
     "source": "MultiRádio",
     "page": "https://multiradio.com.br/webtv/rede-impacto-gospel-tv",
     "stream": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Impacto Gospel TV ao vivo grátis online | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/canal/rede-impacto-gospel-tv",
+    "stream": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Novelas De Televisão — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/rede-novelas-de-televisao",
+    "stream": "https://stmv7.voxtvhd.com.br/lucas3274/lucas3274/playlist.m3u8",
     "stream_type": "hls/mpd"
   }
 ]
