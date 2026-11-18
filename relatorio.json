@@ -1,8 +1,8 @@
 {
   "status": "updated",
-  "discovered": 157,
-  "valid": 153,
-  "published": 493,
+  "discovered": 158,
+  "valid": 154,
+  "published": 494,
   "sources": [
     {
       "source": "AM Canais",
@@ -37,7 +37,7 @@
     {
       "source": "TVAOVIVO.VIP",
       "pages_scanned": 150,
-      "channel_candidates": 184,
+      "channel_candidates": 185,
       "records": 5
     },
     {
@@ -55,8 +55,8 @@
     {
       "source": "MultiRádio",
       "pages_scanned": 100,
-      "channel_candidates": 69,
-      "records": 20
+      "channel_candidates": 70,
+      "records": 21
     },
     {
       "source": "Televisão.TV",

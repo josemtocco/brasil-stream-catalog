@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=Nxys6FX89ak",
+    "stream": "https://www.youtube.com/watch?v=fsqQKU6g6_M",
     "stream_type": "youtube"
   },
   {
@@ -3941,6 +3941,14 @@
     "source": "MultiRádio",
     "page": "https://multiradio.com.br/webtv/tv-jovem-total",
     "stream": "https://stmv1.liveplushd.com.br/jovemtotaltv/jovemtotaltv/playlist.m3u8",
+    "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Rede Impacto Gospel TV — MultiRádio Web TV",
+    "category": "TV",
+    "source": "MultiRádio",
+    "page": "https://multiradio.com.br/webtv/rede-impacto-gospel-tv",
+    "stream": "https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8",
     "stream_type": "hls/mpd"
   }
 ]
