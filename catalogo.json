@@ -3092,8 +3092,8 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/sportynet",
-    "stream": "https://vipwaytvcdn.multtv.tv.br:5444/TVThathi_Band/720p/index.m3u8",
-    "stream_type": "hls/mpd"
+    "stream": "https://www.youtube.com/watch?v=B4lsngDBPXY",
+    "stream_type": "youtube"
   },
   {
     "name": "Xsports ao vivo grátis online | KE TV",
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=zPEOk0-hkeU",
+    "stream": "https://www.youtube.com/watch?v=nt2XwljUR-E",
     "stream_type": "youtube"
   },
   {
