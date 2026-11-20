@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 159,
-  "valid": 155,
+  "discovered": 50,
+  "valid": 47,
   "published": 496,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "source": "KE TV",
       "pages_scanned": 19,
       "channel_candidates": 500,
-      "records": 131
+      "records": 43
     },
     {
       "source": "CXTV",
@@ -55,8 +55,8 @@
     {
       "source": "MultiRádio",
       "pages_scanned": 100,
-      "channel_candidates": 71,
-      "records": 22
+      "channel_candidates": 24,
+      "records": 1
     },
     {
       "source": "Televisão.TV",
