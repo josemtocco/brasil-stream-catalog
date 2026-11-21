@@ -166,7 +166,7 @@ https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-name="CNN Brasil ao vivo grátis online | KE TV" group-title="TV",CNN Brasil ao vivo grátis online | KE TV
 https://amg01391-sbtinfast-amg01391c4-lg-br-4597.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01391-addigital-cnnbrasil-lgbr/cb573e1e7b6c608d84c83f60cef24282967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a8744cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dd6ebfb102488b2f57f38117ced415e9d48746cf128627ec159cc4f196da11d7d28c32f85ee7360d5b762e988421a12e3cdcabf2e3842f1052243c67a4c5b1ec4f268f4b3124929df89e15319753eb5fec5338ae14900fa53d8f79a30aa69b3ec8577e6c23335083d15a7332acedaf99b9415b2cba49c39bbf404ce39f277948895dd9372737da9aa171d49445c6e671c2dc036c70de7d9c9094e523964cde88487292e054d24c634366160b855ceda96cd416ed79bdc21c1bfb2c2eb0b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137586237930bb49d9aa1440806ede5c4b195006f496a4112298fe5a821cedc8e7953468f0354151e7a209f0ad266c81309517ebb79fd984925d5487157a9cd5670536f84c7a28e81c2b82d9876d0ddf22a203d4d19d31601216b93fbcd6ef4364f716d4ec2684046ae0c4e4dfa9faab4c0d78eaf7b923c8c04fe968932a6a54d2d6641655a4e274dd8/197/1920x1080_7582265/index.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP" group-title="TV",CNN Brasil ao vivo no YouTube: onde assistir · TVAOVIVO.VIP
-https://www.youtube.com/watch?v=g7ww-a5JyVw
+https://www.youtube.com/watch?v=B5f7YF6CYcc
 #EXTINF:-1 tvg-name="CNN Portugal ao vivo grátis online | KE TV" group-title="TV",CNN Portugal ao vivo grátis online | KE TV
 https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=1535712047&wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDI2IDEyOjE2OjAgUE0maGFzaF92YWx1ZT1HbGJpdDAzejluek9qUEwzcmdYQmx3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDZiZDkwODEtNGE5Ny00MjJhLWI3MTEtMzZhZTkxZDliMjll
 #EXTINF:-1 tvg-name="CNN | AM Canais" group-title="TV",CNN | AM Canais
@@ -280,7 +280,7 @@ https://live.playstop.me/1816184091/index.m3u8
 #EXTINF:-1 tvg-name="ISTV" group-title="TV",ISTV
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-name="ISTV ao vivo grátis online | KE TV" group-title="TV",ISTV ao vivo grátis online | KE TV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1021136859.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/main_stream.m3u8
 #EXTINF:-1 tvg-name="ISTV | AM Canais" group-title="TV",ISTV | AM Canais
 https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV Deportes" group-title="TV",ITV Deportes
@@ -381,6 +381,8 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 https://sbtnews.maissbt.com/3.m3u8
 #EXTINF:-1 tvg-name="NOVA PLAY" group-title="TV",NOVA PLAY
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
+#EXTINF:-1 tvg-name="Nova92 Caratinga — MultiRádio Web TV" group-title="TV",Nova92 Caratinga — MultiRádio Web TV
+https://stmv3.srvsh.com.br/heliononato9350/heliononato9350/playlist.m3u8
 #EXTINF:-1 tvg-name="Novelas Turcas" group-title="TV",Novelas Turcas
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-name="NOVELISIMA" group-title="TV",NOVELISIMA
@@ -462,7 +464,7 @@ https://www.youtube.com/watch?v=cAPD4i7mBNc
 #EXTINF:-1 tvg-name="REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES ao vivo grátis online | KE TV" group-title="TV",REDE DE RÁDIO E TV WEB JESUS CRISTO PARA AS NAÇÕES ao vivo grátis online | KE TV
 https://stmv4.liveplushd.com.br/robertomaciel/robertomaciel/chunklist_w338675785.m3u8
 #EXTINF:-1 tvg-name="Rede Globo ao vivo grátis online | KE TV" group-title="TV",Rede Globo ao vivo grátis online | KE TV
-https://live-ber-sp-12-36.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTEyLTM2LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NDk1OTM4NywiaWF0IjoxNzk0OTM3Nzg3LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.c4Ao22ceucbpisgAz3tM8TEzSF6HFzpNqBe2UAEyIM_vWInstQprjjFhHupRz7i-dxH2d8NhVnHMn2yaUkGoBr0PMXWjNzzS6N97otKHPkMv0h7BuWVm4b-8mvAYd0Alq1Vuols7UqcF5ENXuyoBiwns8a2q8b_Wz8hVWU9Y6dxc6mAAFHM1SBLlyqCPpcnqGAkoOYgcv1qVq24m5r3Pn9Voi_UfaKpdWmfF7N-nok7-EF28wUdXJkDlS3caNptVG0SDGx1x5GmGrEqM-vN36mW4fvOYcXc5vuO6kUMMvzb2oobhnm4YVAEojf4bH69rGDYZv0Rt4qZr-RRZGUH8qg/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/8fb15e9c-3372-47cd-83a3-72b7a3b798be:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8
+https://live-ber-sp-15-03.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTE1LTAzLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NTIyMzU4MiwiaWF0IjoxNzk1MjAxOTgyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.jfKQZmEzaXzbrD6fK5URskMDxsVZaz8t055OuOPwby4fTvkaLOtoTpCsI2pq5hlD8WWA2HPmfDqjI7RjWnmVxlwAlOntdXfIAtSiy9IWi3KGAiygQlWijMXlbnKulIBAC9c2rTLf7_KOM6fATykRnSktkzh-DXnmhhMeeMnMMrcfaR0Kz2f6zCB-EqcgsQFXEsOmcPwKJA_DuqS_v2Lxim_V0KKNyesYSlS6BREkDh0LUd9OFbBOXUeFPs_4i92UpLc2coJfZNnPrt3zJJy9hG7kYFWWbDP85cuCNa2erR4EF3hOR-EHvClRSTeRzboW5XwvlT7nLPNyvA8_b1Qjxw/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/aae1741b-ed17-42af-9131-fd3dbc6a53de:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8
 #EXTINF:-1 tvg-name="REDE GOSPEL" group-title="TV",REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-name="Rede Impacto Gospel TV ao vivo grátis online | KE TV" group-title="TV",Rede Impacto Gospel TV ao vivo grátis online | KE TV
@@ -605,6 +607,8 @@ https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=ny30t6na
 https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=323409ok
 #EXTINF:-1 tvg-name="SBC Studios ao vivo — filmes e séries online ao vivo grátis online | KE TV" group-title="TV",SBC Studios ao vivo — filmes e séries online ao vivo grátis online | KE TV
 https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=d9829o73
+#EXTINF:-1 tvg-name="SBC TV — MultiRádio Web TV" group-title="TV",SBC TV — MultiRádio Web TV
+https://srv3.zcast.com.br/romilson8168/romilson8168/playlist.m3u8
 #EXTINF:-1 tvg-name="SBT Interior SP ao vivo grátis online | KE TV" group-title="TV",SBT Interior SP ao vivo grátis online | KE TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-name="SBT News" group-title="TV",SBT News
@@ -724,7 +728,7 @@ https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w1246494359.m
 #EXTINF:-1 tvg-name="TV Adorador Gospel ao vivo grátis online | KE TV" group-title="TV",TV Adorador Gospel ao vivo grátis online | KE TV
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8?hls_ctx=1478a427
 #EXTINF:-1 tvg-name="TV AGRO É NOSSO ao vivo grátis online | KE TV" group-title="TV",TV AGRO É NOSSO ao vivo grátis online | KE TV
-https://video01.logicahost.com.br/agronosso/agronosso/chunklist_w149846283.m3u8
+https://video01.logicahost.com.br/agronosso/agronosso/main_stream.m3u8
 #EXTINF:-1 tvg-name="TV Alpha ao vivo grátis online | KE TV" group-title="TV",TV Alpha ao vivo grátis online | KE TV
 https://video05.logicahost.com.br/tvalpha/tvalpha/chunklist_w233935857.m3u8
 #EXTINF:-1 tvg-name="TV APARECIDA" group-title="TV",TV APARECIDA
@@ -910,11 +914,11 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/yXh2UIbN/media/KFXZ5tL6/live.is
 #EXTINF:-1 tvg-name="TVI ao vivo grátis online | KE TV" group-title="TV",TVI ao vivo grátis online | KE TV
 https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/chunks.m3u8?nimblesessionid=2971005249&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyNiA1OjQ2OjYgUE0maGFzaF92YWx1ZT1pNWc5TmxKNGFaQ2x4WmFOSUdkWDhBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGViNmVlODctN2Q5Mi00ZjE4LTg4MmItYzVjMzMzOGU3MTEx
 #EXTINF:-1 tvg-name="TVI Ficção ao vivo grátis online | KE TV" group-title="TV",TVI Ficção ao vivo grátis online | KE TV
-https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=464414101&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3
+https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/chunks.m3u8?nimblesessionid=473182746&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNiAyOjk6MSBQTSZoYXNoX3ZhbHVlPTlQVVd6K0pNbVAyQlZBUElnL2JqV2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNjQ1YTJjNi03YWViLTRiODktOWFiMy1jZTgxZDViOTRiYjM=
 #EXTINF:-1 tvg-name="TVI Internacional ao vivo — Portugal para o mundo ao vivo grátis online | KE TV" group-title="TV",TVI Internacional ao vivo — Portugal para o mundo ao vivo grátis online | KE TV
-https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=464414799&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3
+https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/chunks.m3u8?nimblesessionid=473183795&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNiAyOjk6MSBQTSZoYXNoX3ZhbHVlPTlQVVd6K0pNbVAyQlZBUElnL2JqV2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNjQ1YTJjNi03YWViLTRiODktOWFiMy1jZTgxZDViOTRiYjM=
 #EXTINF:-1 tvg-name="TVI Reality Big Brother - Big Brother Verão - Ligação à Casa ao vivo grátis online | KE TV" group-title="TV",TVI Reality Big Brother - Big Brother Verão - Ligação à Casa ao vivo grátis online | KE TV
-https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=464413482&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3
+https://video-auth7.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?nimblesessionid=473181990&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNiAyOjk6MSBQTSZoYXNoX3ZhbHVlPTlQVVd6K0pNbVAyQlZBUElnL2JqV2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xNjQ1YTJjNi03YWViLTRiODktOWFiMy1jZTgxZDViOTRiYjM=
 #EXTINF:-1 tvg-name="TVitapê ao vivo grátis online | KE TV" group-title="TV",TVitapê ao vivo grátis online | KE TV
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-name="TVL News ao vivo grátis online | KE TV" group-title="TV",TVL News ao vivo grátis online | KE TV
@@ -940,7 +944,7 @@ https://pop2.uniquetv.com.br/hls/uniquesports2.m3u8
 #EXTINF:-1 tvg-name="Unique Sports 3 ao vivo grátis online | KE TV" group-title="TV",Unique Sports 3 ao vivo grátis online | KE TV
 https://pop2.uniquetv.com.br/hls/uniquesports3.m3u8
 #EXTINF:-1 tvg-name="V+ TVI ao vivo grátis online | KE TV" group-title="TV",V+ TVI ao vivo grátis online | KE TV
-https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=464412404&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTUvMjAyNiAyOjc6MzEgUE0maGFzaF92YWx1ZT1ZUTRsam1NYXArajdxU2gwQTBrb2tBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzQ4YzA3NmItZTUzNC00OWMyLWEwYmMtNThkZmZjZTJiOGQ3
+https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?nimblesessionid=473413042&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjAvMjAyNiA4Ojg6MjMgUE0maGFzaF92YWx1ZT1CeXRTRllWYklrRkp3UCtmNGVyN2JRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzQ2YzUyNDItOWIxZi00ODcxLThiYWMtNmJhY2QxMGM5MWNi
 #EXTINF:-1 tvg-name="V2BEAT TV" group-title="TV",V2BEAT TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="VIA MORENA" group-title="TV",VIA MORENA
