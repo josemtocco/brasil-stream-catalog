@@ -1,8 +1,8 @@
 {
   "status": "updated",
-  "discovered": 161,
-  "valid": 155,
-  "published": 499,
+  "discovered": 162,
+  "valid": 158,
+  "published": 500,
   "sources": [
     {
       "source": "AM Canais",
@@ -12,9 +12,9 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 19,
+      "pages_scanned": 20,
       "channel_candidates": 500,
-      "records": 131
+      "records": 132
     },
     {
       "source": "CXTV",

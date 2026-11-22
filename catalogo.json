@@ -3052,7 +3052,7 @@
     "category": "TV",
     "source": "KE TV",
     "page": "https://www.ketv.com.br/canal/rede-globo",
-    "stream": "https://live-ber-sp-08-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA4LTA0LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NTI5MDIyMiwiaWF0IjoxNzk1MjY4NjIyLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.lqfbSfWrBZbQnqSfztXjN1ACWhOK3Khu4S_jntwf1dK-PeC4ZK7-YozILbBeQHg7h-gOsqI6apcvaQiZj3dWNXJoVE-nSQ9TZFcONSgi9ROid0TxvRoSbp27MPGoIBnSIaadtHW0CTcEZSWEdWu0coSJz1ii5M2zBpQGoCM1q0JesfGyDuZaGNLTt96y8FAMYCOSjPIvTKfsShbQhBlP7nq3CWJqKVn2lBNnK8oitR93dCFZI_pWPn7e_K1JnddyYltLh_hzJvBtS8qM1KTnDkjAhs3tTkhrzftm0ktKkuWotvDYjeWiFYhVUeG0Zi1hha41AggVuX6JKR6NnHWgAw/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/91eb0bc2-69d2-4ed5-be24-83458d6bd9f7:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
+    "stream": "https://live-ber-sp-09-37.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmVyLXNwLTA5LTM3LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTc5NTMzNDA3MSwiaWF0IjoxNzk1MzEyNDcxLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6IjIwOTE3MWExLTVkMGQtNDE4NS04NTlhLTQ0NWFhZDc3N2UzNCIsInBhdGgiOiIvbGl2ZS9mKGk9MikvZ2xvYm8tc3AxL3BsYXlsaXN0Lm0zdTgifQ.s8fSfq5T70ZDs3zFuLwpd-5y3SQPt5KAWNsSt49rYBACe1HdLAdSQlywQY8eDmNOdIZoVrbEh47AohydY6Z8_iiXuvcQmj0NZyzK24VVirTtu-FOicRJv3fYkkha_g67H3wIZsuhayOC0I6t9wlCLHJVmVHKCNzfwN6TK2Xjp3BA7V4UjcQAChWBhe0qhnU54UCnSZc4WqYBVcWmEOc_k-dC5WzQfAROPZMLNiaV4k3tnQGSYVmyC9_Rlj4NqhDuJUYX3R1gJhA2KyAy8i5Vb9H5U8-pql8rIYmc3s3Is-6v70hUX-8lv6AanL6COTN95AHUahI4f0fRSYMU7YBE4w/live/f(i=2)/globo-sp1/playlist.m3u8?originpath=/linear/hls/pa/event/7FmqayJxQeWEBgUKPF41iQ/stream/6c083ff5-ce55-4233-810e-305bc334381a:SCL2/variant/948a9488ed38e10847b10db21d35752d/bandwidth/6577000.m3u8",
     "stream_type": "hls/mpd"
   },
   {
@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=_mWcjSYRLKU",
+    "stream": "https://www.youtube.com/watch?v=PDM7J2jOel0",
     "stream_type": "youtube"
   },
   {
@@ -3990,5 +3990,13 @@
     "page": "https://www.ketv.com.br/canal/tcm-canal-10",
     "stream": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
     "stream_type": "hls/mpd"
+  },
+  {
+    "name": "Desenhos animados online ao vivo grátis 24 horas | KE TV",
+    "category": "TV",
+    "source": "KE TV",
+    "page": "https://www.ketv.com.br/desenhos",
+    "stream": "https://www.youtube.com/watch?v=b4jCWK7wIq8",
+    "stream_type": "youtube"
   }
 ]
