@@ -1,7 +1,7 @@
 {
   "status": "updated",
-  "discovered": 139,
-  "valid": 135,
+  "discovered": 162,
+  "valid": 157,
   "published": 500,
   "sources": [
     {
@@ -55,8 +55,8 @@
     {
       "source": "MultiRádio",
       "pages_scanned": 100,
-      "channel_candidates": 24,
-      "records": 1
+      "channel_candidates": 73,
+      "records": 24
     },
     {
       "source": "Televisão.TV",
