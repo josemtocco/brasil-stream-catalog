@@ -2,7 +2,7 @@
   "status": "updated",
   "discovered": 163,
   "valid": 158,
-  "published": 501,
+  "published": 507,
   "sources": [
     {
       "source": "AM Canais",
@@ -12,7 +12,7 @@
     },
     {
       "source": "KE TV",
-      "pages_scanned": 19,
+      "pages_scanned": 18,
       "channel_candidates": 500,
       "records": 132
     },
