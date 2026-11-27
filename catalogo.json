@@ -3148,7 +3148,7 @@
     "category": "TV",
     "source": "TVAOVIVO.VIP",
     "page": "https://www.tvaovivo.vip/canal/cnn-brasil-youtube",
-    "stream": "https://www.youtube.com/watch?v=ie71Lq4DsQ0",
+    "stream": "https://www.youtube.com/watch?v=1_Q1JGxz4xg",
     "stream_type": "youtube"
   },
   {
@@ -3997,6 +3997,14 @@
     "source": "KE TV",
     "page": "https://www.ketv.com.br/desenhos",
     "stream": "https://www.youtube.com/watch?v=b4jCWK7wIq8",
+    "stream_type": "youtube"
+  },
+  {
+    "name": "Ticaracaticast ao vivo no YouTube: onde assistir · TVAOVIVO.VIP",
+    "category": "TV",
+    "source": "TVAOVIVO.VIP",
+    "page": "https://www.tvaovivo.vip/canal/ticaracaticast-youtube",
+    "stream": "https://www.youtube.com/watch?v=PpMnDsFUcw4",
     "stream_type": "youtube"
   }
 ]
